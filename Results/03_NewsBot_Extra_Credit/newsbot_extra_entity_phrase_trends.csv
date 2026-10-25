@@ -1,0 +1,45 @@
+year,tracked_phrase,articles_mentioning_phrase,sample_articles_that_year,articles_per_100_sampled
+2012,NVIDIA,0,381,0.0
+2013,NVIDIA,0,294,0.0
+2014,NVIDIA,0,163,0.0
+2015,NVIDIA,0,330,0.0
+2016,NVIDIA,0,377,0.0
+2017,NVIDIA,0,254,0.0
+2018,NVIDIA,0,118,0.0
+2019,NVIDIA,0,19,0.0
+2020,NVIDIA,0,21,0.0
+2021,NVIDIA,0,25,0.0
+2022,NVIDIA,0,18,0.0
+2012,Apple,8,381,2.1
+2013,Apple,8,294,2.72
+2014,Apple,0,163,0.0
+2015,Apple,5,330,1.52
+2016,Apple,16,377,4.24
+2017,Apple,0,254,0.0
+2018,Apple,2,118,1.69
+2019,Apple,0,19,0.0
+2020,Apple,0,21,0.0
+2021,Apple,0,25,0.0
+2022,Apple,0,18,0.0
+2012,Microsoft,0,381,0.0
+2013,Microsoft,0,294,0.0
+2014,Microsoft,0,163,0.0
+2015,Microsoft,0,330,0.0
+2016,Microsoft,1,377,0.27
+2017,Microsoft,0,254,0.0
+2018,Microsoft,0,118,0.0
+2019,Microsoft,0,19,0.0
+2020,Microsoft,0,21,0.0
+2021,Microsoft,0,25,0.0
+2022,Microsoft,0,18,0.0
+2012,Donald Trump / Trump (unverified alias),1,381,0.26
+2013,Donald Trump / Trump (unverified alias),0,294,0.0
+2014,Donald Trump / Trump (unverified alias),1,163,0.61
+2015,Donald Trump / Trump (unverified alias),11,330,3.33
+2016,Donald Trump / Trump (unverified alias),40,377,10.61
+2017,Donald Trump / Trump (unverified alias),63,254,24.8
+2018,Donald Trump / Trump (unverified alias),15,118,12.71
+2019,Donald Trump / Trump (unverified alias),3,19,15.79
+2020,Donald Trump / Trump (unverified alias),8,21,38.1
+2021,Donald Trump / Trump (unverified alias),5,25,20.0
+2022,Donald Trump / Trump (unverified alias),1,18,5.56

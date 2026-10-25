@@ -1,0 +1,41 @@
+case,text,method,gold_count,predicted_count,true_positive,false_positive,false_negative,gold_spans,predicted_spans
+1,NVIDIA unveiled a graphics architecture.,spaCy baseline,1,0,0,0,1,"[(0, 6, 'ORG')]",[]
+1,NVIDIA unveiled a graphics architecture.,spaCy + fixed lexicon,1,1,1,0,0,"[(0, 6, 'ORG')]","[(0, 6, 'ORG')]"
+2,NVIDIA shares declined after earnings.,spaCy baseline,1,0,0,0,1,"[(0, 6, 'ORG')]",[]
+2,NVIDIA shares declined after earnings.,spaCy + fixed lexicon,1,1,1,0,0,"[(0, 6, 'ORG')]","[(0, 6, 'ORG')]"
+3,Donald Trump met Elon Musk.,spaCy baseline,2,2,2,0,0,"[(0, 12, 'PERSON'), (17, 26, 'PERSON')]","[(0, 12, 'PERSON'), (17, 26, 'PERSON')]"
+3,Donald Trump met Elon Musk.,spaCy + fixed lexicon,2,2,2,0,0,"[(0, 12, 'PERSON'), (17, 26, 'PERSON')]","[(0, 12, 'PERSON'), (17, 26, 'PERSON')]"
+4,President Trump commented on Amazon.,spaCy baseline,2,2,1,1,1,"[(0, 15, 'PERSON'), (29, 35, 'ORG')]","[(10, 15, 'PERSON'), (29, 35, 'ORG')]"
+4,President Trump commented on Amazon.,spaCy + fixed lexicon,2,2,2,0,0,"[(0, 15, 'PERSON'), (29, 35, 'ORG')]","[(0, 15, 'PERSON'), (29, 35, 'ORG')]"
+5,Mark Zuckerberg spoke at Meta.,spaCy baseline,2,2,2,0,0,"[(0, 15, 'PERSON'), (25, 29, 'ORG')]","[(0, 15, 'PERSON'), (25, 29, 'ORG')]"
+5,Mark Zuckerberg spoke at Meta.,spaCy + fixed lexicon,2,2,2,0,0,"[(0, 15, 'PERSON'), (25, 29, 'ORG')]","[(0, 15, 'PERSON'), (25, 29, 'ORG')]"
+6,Jeff Bezos discussed a new investment.,spaCy baseline,1,1,1,0,0,"[(0, 10, 'PERSON')]","[(0, 10, 'PERSON')]"
+6,Jeff Bezos discussed a new investment.,spaCy + fixed lexicon,1,1,1,0,0,"[(0, 10, 'PERSON')]","[(0, 10, 'PERSON')]"
+7,FIFA announced World Cup plans.,spaCy baseline,2,2,2,0,0,"[(0, 4, 'ORG'), (15, 24, 'EVENT')]","[(0, 4, 'ORG'), (15, 24, 'EVENT')]"
+7,FIFA announced World Cup plans.,spaCy + fixed lexicon,2,2,2,0,0,"[(0, 4, 'ORG'), (15, 24, 'EVENT')]","[(0, 4, 'ORG'), (15, 24, 'EVENT')]"
+8,The United Nations issued a statement.,spaCy baseline,1,1,0,1,1,"[(4, 18, 'ORG')]","[(0, 18, 'ORG')]"
+8,The United Nations issued a statement.,spaCy + fixed lexicon,1,1,1,0,0,"[(4, 18, 'ORG')]","[(4, 18, 'ORG')]"
+9,Satya Nadella presented Microsoft software.,spaCy baseline,2,2,2,0,0,"[(0, 13, 'PERSON'), (24, 33, 'ORG')]","[(0, 13, 'PERSON'), (24, 33, 'ORG')]"
+9,Satya Nadella presented Microsoft software.,spaCy + fixed lexicon,2,2,2,0,0,"[(0, 13, 'PERSON'), (24, 33, 'ORG')]","[(0, 13, 'PERSON'), (24, 33, 'ORG')]"
+10,Apple and Google announced an initiative.,spaCy baseline,2,2,2,0,0,"[(0, 5, 'ORG'), (10, 16, 'ORG')]","[(0, 5, 'ORG'), (10, 16, 'ORG')]"
+10,Apple and Google announced an initiative.,spaCy + fixed lexicon,2,2,2,0,0,"[(0, 5, 'ORG'), (10, 16, 'ORG')]","[(0, 5, 'ORG'), (10, 16, 'ORG')]"
+11,The FBI interviewed a Twitter executive.,spaCy baseline,2,2,2,0,0,"[(4, 7, 'ORG'), (22, 29, 'ORG')]","[(4, 7, 'ORG'), (22, 29, 'ORG')]"
+11,The FBI interviewed a Twitter executive.,spaCy + fixed lexicon,2,2,2,0,0,"[(4, 7, 'ORG'), (22, 29, 'ORG')]","[(4, 7, 'ORG'), (22, 29, 'ORG')]"
+12,LeBron James discussed the NBA season.,spaCy baseline,2,2,2,0,0,"[(0, 12, 'PERSON'), (27, 30, 'ORG')]","[(0, 12, 'PERSON'), (27, 30, 'ORG')]"
+12,LeBron James discussed the NBA season.,spaCy + fixed lexicon,2,2,2,0,0,"[(0, 12, 'PERSON'), (27, 30, 'ORG')]","[(0, 12, 'PERSON'), (27, 30, 'ORG')]"
+13,U.S. officials reviewed new rules.,spaCy baseline,1,1,1,0,0,"[(0, 4, 'GPE')]","[(0, 4, 'GPE')]"
+13,U.S. officials reviewed new rules.,spaCy + fixed lexicon,1,1,1,0,0,"[(0, 4, 'GPE')]","[(0, 4, 'GPE')]"
+14,Elon Musk discussed Tesla finances.,spaCy baseline,2,1,0,1,2,"[(0, 9, 'PERSON'), (20, 25, 'ORG')]","[(20, 25, 'NORP')]"
+14,Elon Musk discussed Tesla finances.,spaCy + fixed lexicon,2,2,2,0,0,"[(0, 9, 'PERSON'), (20, 25, 'ORG')]","[(0, 9, 'PERSON'), (20, 25, 'ORG')]"
+15,Shape.com published a wellness article.,spaCy baseline,1,1,1,0,0,"[(0, 9, 'ORG')]","[(0, 9, 'ORG')]"
+15,Shape.com published a wellness article.,spaCy + fixed lexicon,1,1,1,0,0,"[(0, 9, 'ORG')]","[(0, 9, 'ORG')]"
+16,The 2026 World Cup attracted attention.,spaCy baseline,1,1,0,1,1,"[(4, 18, 'EVENT')]","[(0, 18, 'EVENT')]"
+16,The 2026 World Cup attracted attention.,spaCy + fixed lexicon,1,1,1,0,0,"[(4, 18, 'EVENT')]","[(4, 18, 'EVENT')]"
+17,An engineer studied artificial intelligence.,spaCy baseline,0,0,0,0,0,[],[]
+17,An engineer studied artificial intelligence.,spaCy + fixed lexicon,0,0,0,0,0,[],[]
+18,The company reported financial results.,spaCy baseline,0,0,0,0,0,[],[]
+18,The company reported financial results.,spaCy + fixed lexicon,0,0,0,0,0,[],[]
+19,Trump Tower opened to visitors.,spaCy baseline,1,1,0,1,1,"[(0, 11, 'FAC')]","[(0, 11, 'PERSON')]"
+19,Trump Tower opened to visitors.,spaCy + fixed lexicon,1,1,0,1,1,"[(0, 11, 'FAC')]","[(0, 5, 'PERSON')]"
+20,A researcher visited Paris.,spaCy baseline,1,1,1,0,0,"[(21, 26, 'GPE')]","[(21, 26, 'GPE')]"
+20,A researcher visited Paris.,spaCy + fixed lexicon,1,1,1,0,0,"[(21, 26, 'GPE')]","[(21, 26, 'GPE')]"

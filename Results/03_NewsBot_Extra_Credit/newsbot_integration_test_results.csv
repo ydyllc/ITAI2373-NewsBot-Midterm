@@ -1,0 +1,8 @@
+Test,Scenario,Expected Topic,Predicted Category,Top Probability,Probability Margin,Sentiment,Entities,SVO Patterns,Review Status,Execution
+1,Professor example: Technology and Finance,Finance,Technology,0.4345479506394465,0.2048107633781935,positive,7,2,Review category difference,Passed
+2,Professor example: Sports,Sports,Sports,0.6252055096639365,0.5212229587482536,positive,6,2,Matches illustrative topic,Passed
+3,Professor example: Out-of-scope topic,Outside six-category scope,Technology,0.28595280736314244,0.07105939870882527,positive,2,1,Out-of-scope review,Passed
+4,Technology product development,Technology,Technology,0.2530572359669713,0.040140214614188874,positive,0,2,Matches illustrative topic,Passed
+5,"Technology company, financial focus",Finance,Finance,0.3892615517339962,0.11953735045009595,positive,1,2,Matches illustrative topic,Passed
+6,Sports and political policy overlap,Sports,Sports,0.32879881501580205,0.060323950156132455,positive,4,2,Matches illustrative topic,Passed
+7,Health and wellness,Wellness,Wellness,0.7925183460197277,0.7320369675666839,positive,0,2,Matches illustrative topic,Passed

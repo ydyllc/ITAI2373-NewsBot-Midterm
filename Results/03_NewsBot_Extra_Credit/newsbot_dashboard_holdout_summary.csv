@@ -1,0 +1,2 @@
+Selected Model,Holdout Articles,Accuracy,Macro Precision,Macro Recall,Macro F1,Correct,Incorrect
+TF-IDF | Naive Bayes,400,0.7425,0.7437995456073808,0.7429519071310117,0.7411744121672776,297,103

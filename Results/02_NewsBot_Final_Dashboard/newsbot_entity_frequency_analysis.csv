@@ -1,0 +1,2494 @@
+entity_key,Articles,Categories,Display_Name,Observed_Labels
+u.s.,47,6,U.S.,GPE
+trump,34,4,Trump,"ORG, PERSON"
+donald trump,26,6,Donald Trump,PERSON
+nfl,26,1,NFL,ORG
+gop,21,2,GOP,ORG
+apple,19,2,Apple,ORG
+america,18,5,America,GPE
+hillary clinton,15,4,Hillary Clinton,PERSON
+google,13,3,Google,ORG
+fbi,13,2,FBI,ORG
+nba,13,2,NBA,ORG
+obama,12,2,Obama,"GPE, PERSON"
+donald trump's,11,4,Donald Trump's,PERSON
+twitter,11,3,Twitter,PERSON
+clinton,10,2,Clinton,PERSON
+san francisco,9,4,San Francisco,GPE
+russia,8,4,Russia,GPE
+congress,8,3,Congress,ORG
+amazon,8,2,Amazon,ORG
+colin kaepernick,8,1,Colin Kaepernick,PERSON
+new york,7,3,New York,GPE
+washington,7,3,Washington,GPE
+reuters,6,4,Reuters,ORG
+the united states,6,4,the United States,GPE
+california,6,3,California,GPE
+florida,6,3,Florida,GPE
+nra,6,3,NRA,GPE
+instagram,6,2,Instagram,ORG
+netflix,6,2,Netflix,"GPE, ORG"
+supreme court,6,2,Supreme Court,ORG
+bernie sanders,6,1,Bernie Sanders,PERSON
+barack obama,5,3,Barack Obama,PERSON
+hollywood,5,3,Hollywood,GPE
+cleveland,5,2,Cleveland,GPE
+hbo,5,2,HBO,ORG
+fifa,5,1,FIFA,ORG
+iphone,5,1,iPhone,ORG
+mark zuckerberg,5,1,Mark Zuckerberg,PERSON
+germany,4,4,Germany,GPE
+will be,4,4,Will Be,PERSON
+los angeles,4,3,Los Angeles,GPE
+wisconsin,4,3,Wisconsin,GPE
+ap,4,2,AP,ORG
+chicago,4,2,Chicago,GPE
+denver,4,2,Denver,GPE
+irs,4,2,IRS,ORG
+isis,4,2,ISIS,ORG
+joe biden,4,2,Joe Biden,PERSON
+miley cyrus,4,2,Miley Cyrus,PERSON
+senate,4,2,Senate,ORG
+snl,4,2,SNL,ORG
+youtube,4,2,YouTube,ORG
+donald trump’s,4,1,Donald Trump’s,PERSON
+elizabeth warren,4,1,Elizabeth Warren,PERSON
+lebron james,4,1,LeBron James,PERSON
+new hampshire,4,1,New Hampshire,GPE
+roger goodell,4,1,Roger Goodell,PERSON
+steven spielberg,4,1,Steven Spielberg,PERSON
+new york city,3,3,New York City,GPE
+north carolina,3,3,North Carolina,GPE
+paris,3,3,Paris,GPE
+the new england patriots,3,3,the New England Patriots,ORG
+alabama,3,2,Alabama,GPE
+arizona,3,2,Arizona,GPE
+covid-19,3,2,COVID-19,ORG
+dallas,3,2,Dallas,GPE
+kelly,3,2,Kelly,PERSON
+london,3,2,London,GPE
+marissa mayer,3,2,Marissa Mayer,PERSON
+mexico,3,2,Mexico,GPE
+michigan,3,2,Michigan,GPE
+mike pence,3,2,Mike Pence,PERSON
+nevada,3,2,Nevada,GPE
+north korea,3,2,North Korea,GPE
+oregon,3,2,Oregon,GPE
+peyton manning,3,2,Peyton Manning,PERSON
+texas,3,2,Texas,GPE
+tom brady,3,2,Tom Brady,PERSON
+yahoo,3,2,Yahoo,"ORG, PERSON"
+giants,3,1,Giants,ORG
+gif,3,1,GIF,ORG
+house,3,1,House,ORG
+iran,3,1,Iran,GPE
+jack dorsey,3,1,Jack Dorsey,PERSON
+jeff bezos,3,1,Jeff Bezos,PERSON
+jerry brown,3,1,Jerry Brown,PERSON
+johnny manziel,3,1,Johnny Manziel,PERSON
+oscar,3,1,Oscar,PERSON
+romney,3,1,Romney,"ORG, PERSON"
+syria,3,1,Syria,GPE
+ted cruz,3,1,Ted Cruz,PERSON
+the huffpost rise morning newsbrief,3,1,the HuffPost Rise Morning Newsbrief,ORG
+white house,3,1,White House,ORG
+abc,2,2,ABC,ORG
+atm,2,2,ATM,ORG
+banner,2,2,Banner,PERSON
+brady,2,2,Brady,PERSON
+calif.,2,2,Calif.,GPE
+canada,2,2,Canada,GPE
+colorado,2,2,Colorado,GPE
+dead,2,2,Dead,PERSON
+eugene,2,2,Eugene,"GPE, PERSON"
+fed,2,2,Fed,ORG
+fossil fuels,2,2,Fossil Fuels,PERSON
+fox,2,2,FOX,ORG
+france,2,2,France,GPE
+ftc,2,2,FTC,ORG
+hanukkah,2,2,Hanukkah,"ORG, PERSON"
+houston,2,2,Houston,GPE
+james corden,2,2,James Corden,PERSON
+jerry seinfeld,2,2,Jerry Seinfeld,PERSON
+johnson,2,2,Johnson,PERSON
+kentucky,2,2,Kentucky,GPE
+lebanon,2,2,Lebanon,GPE
+lincoln,2,2,Lincoln,ORG
+louisiana,2,2,Louisiana,GPE
+maine,2,2,Maine,GPE
+mark zuckerberg's,2,2,Mark Zuckerberg's,PERSON
+matt lauer,2,2,Matt Lauer,PERSON
+media,2,2,Media,ORG
+medicare,2,2,Medicare,ORG
+mitt romney,2,2,Mitt Romney,PERSON
+nbc,2,2,NBC,ORG
+new york times,2,2,New York Times,ORG
+philadelphia,2,2,Philadelphia,GPE
+runner,2,2,Runner,"ORG, PERSON"
+ryan lochte,2,2,Ryan Lochte,PERSON
+sanders,2,2,Sanders,PERSON
+seattle,2,2,Seattle,GPE
+sheldon adelson,2,2,Sheldon Adelson,PERSON
+spotify,2,2,Spotify,GPE
+st. patrick's,2,2,St. Patrick's,GPE
+tech,2,2,Tech,ORG
+ted,2,2,TED,PERSON
+the detroit tigers,2,2,the Detroit Tigers,ORG
+tim,2,2,Tim,PERSON
+tom,2,2,Tom,PERSON
+toronto,2,2,Toronto,GPE
+turkey,2,2,Turkey,GPE
+un,2,2,UN,ORG
+us,2,2,US,GPE
+vegas,2,2,Vegas,"GPE, PERSON"
+walmart,2,2,Walmart,ORG
+aaron swartz,2,1,Aaron Swartz,PERSON
+amy schumer,2,1,Amy Schumer,PERSON
+apple rumors hello,2,1,Apple Rumors Hello,ORG
+bill clinton,2,1,Bill Clinton,PERSON
+brazil,2,1,Brazil,GPE
+bryant,2,1,Bryant,PERSON
+china,2,1,China,GPE
+cnn,2,1,CNN,ORG
+comey,2,1,Comey,PERSON
+d.c.,2,1,D.C.,GPE
+dhs,2,1,DHS,ORG
+dodgers,2,1,Dodgers,PERSON
+dorsey,2,1,Dorsey,PERSON
+eagles,2,1,Eagles,GPE
+ellen,2,1,Ellen,PERSON
+ellen degeneres,2,1,Ellen DeGeneres,PERSON
+epa,2,1,EPA,ORG
+fda,2,1,FDA,ORG
+ferguson,2,1,Ferguson,"ORG, PERSON"
+fiorina,2,1,Fiorina,ORG
+gary johnson,2,1,Gary Johnson,PERSON
+gif/video,2,1,GIF/VIDEO,ORG
+halle berry,2,1,Halle Berry,PERSON
+hannah montana,2,1,Hannah Montana,PERSON
+hewlett-packard,2,1,Hewlett-Packard,ORG
+ipad,2,1,iPad,ORG
+iraq,2,1,Iraq,GPE
+james comey,2,1,James Comey,PERSON
+jane fonda,2,1,Jane Fonda,PERSON
+jennifer lawrence,2,1,Jennifer Lawrence,PERSON
+jerry sandusky's,2,1,Jerry Sandusky's,PERSON
+john mccain,2,1,John McCain,PERSON
+julianne moore,2,1,Julianne Moore,PERSON
+kim kardashian,2,1,Kim Kardashian,PERSON
+kobe bryant,2,1,Kobe Bryant,PERSON
+kourtney kardashian,2,1,Kourtney Kardashian,PERSON
+kristen bell,2,1,Kristen Bell,PERSON
+larry nassar sentencing,2,1,Larry Nassar Sentencing,PERSON
+lose weight,2,1,Lose Weight,PERSON
+louisville,2,1,LOUISVILLE,GPE
+major league,2,1,Major League,ORG
+major league baseball,2,1,Major League Baseball,ORG
+makers,2,1,Makers,ORG
+martin luther king,2,1,Martin Luther King,PERSON
+mashup,2,1,MASHUP,"ORG, PERSON"
+massachusetts,2,1,Massachusetts,GPE
+michael phelps,2,1,Michael Phelps,PERSON
+mitch mcconnell,2,1,Mitch McConnell,PERSON
+msu,2,1,MSU,ORG
+mvp,2,1,MVP,ORG
+nfl player,2,1,NFL Player,ORG
+nikki haley,2,1,Nikki Haley,"ORG, PERSON"
+nokia,2,1,Nokia,ORG
+paul krugman,2,1,Paul Krugman,PERSON
+penn state,2,1,Penn State,ORG
+peter jackson,2,1,Peter Jackson,PERSON
+planned parenthood,2,1,Planned Parenthood,ORG
+rand paul,2,1,Rand Paul,PERSON
+reds,2,1,Reds,ORG
+rnc,2,1,RNC,ORG
+rosie o'donnell,2,1,Rosie O'Donnell,PERSON
+ryan murphy,2,1,Ryan Murphy,PERSON
+sec,2,1,SEC,ORG
+seo,2,1,SEO,ORG
+seth macfarlane,2,1,Seth MacFarlane,PERSON
+shape.com,2,1,Shape.com,ORG
+shell,2,1,Shell,ORG
+stephen colbert,2,1,Stephen Colbert,PERSON
+strikes down,2,1,Strikes Down,PERSON
+susan collins,2,1,Susan Collins,PERSON
+target,2,1,Target,ORG
+taylor swift,2,1,Taylor Swift,PERSON
+the consumer financial protection bureau,2,1,the Consumer Financial Protection Bureau,ORG
+the justice department,2,1,The Justice Department,ORG
+the new york yankees,2,1,the New York Yankees,ORG
+tiger woods,2,1,Tiger Woods,PERSON
+tom brady's,2,1,Tom Brady's,PERSON
+trailer,2,1,Trailer,"ORG, PERSON"
+treasury,2,1,Treasury,ORG
+trump jr.,2,1,Trump Jr.,PERSON
+twitter’s,2,1,Twitter’s,PERSON
+ucla,2,1,UCLA,ORG
+uconn,2,1,UConn,GPE
+usa gymnastics,2,1,USA Gymnastics,ORG
+uswnt,2,1,USWNT,ORG
+vladimir putin,2,1,Vladimir Putin,PERSON
+warner bros.,2,1,Warner Bros.,ORG
+weekend box office,2,1,Weekend Box Office,ORG
+whatsapp,2,1,WhatsApp,ORG
+youtube star,2,1,YouTube Star,PERSON
+a ribald comedy,1,1,A Ribald Comedy,PERSON
+a-tisket,1,1,A-Tisket,ORG
+a.j. delgado,1,1,A.J. Delgado,PERSON
+aaron,1,1,Aaron,PERSON
+aaron hernandez,1,1,Aaron Hernandez,PERSON
+aaron rodgers,1,1,Aaron Rodgers,PERSON
+aaron rodgers thankfully,1,1,Aaron Rodgers Thankfully,PERSON
+aaron schock drops,1,1,Aaron Schock Drops,PERSON
+aaron swartz suicide,1,1,Aaron Swartz Suicide,PERSON
+aarthi ramamurthy,1,1,Aarthi Ramamurthy,PERSON
+abby johnson spreads,1,1,Abby Johnson Spreads,PERSON
+abu dhabi: learning the games people play through the narcicyst's rise,1,1,Abu Dhabi: Learning the Games People Play Through The Narcicyst's Rise,ORG
+academy award,1,1,Academy Award,ORG
+academy calls possible effect of trump's,1,1,Academy Calls Possible Effect Of Trump's,ORG
+academy of country music awards nominations honoring,1,1,Academy Of Country Music Awards Nominations Honoring,ORG
+acanthamoeba,1,1,Acanthamoeba,ORG
+accuse louis c.k.,1,1,Accuse Louis C.K.,PERSON
+acknowledge stripper,1,1,Acknowledge Stripper,PERSON
+aclu,1,1,ACLU,ORG
+act,1,1,Act,ORG
+adam jones,1,1,Adam Jones,ORG
+adam richman,1,1,Adam Richman,PERSON
+adam richman's,1,1,Adam Richman's,PERSON
+adam rippon commentating on figure skating is,1,1,Adam Rippon Commentating On Figure Skating Is,ORG
+adam sandler's,1,1,Adam Sandler's,PERSON
+adam silver,1,1,Adam Silver,PERSON
+adele,1,1,Adele,PERSON
+adnan,1,1,Adnan,PERSON
+adnan syed,1,1,Adnan Syed,PERSON
+adorable first photo,1,1,Adorable First Photo,ORG
+adrian peterson,1,1,Adrian Peterson,PERSON
+adult star,1,1,Adult Star,PERSON
+advocacy,1,1,Advocacy,PERSON
+afford,1,1,Afford,PERSON
+affordable,1,1,Affordable,PERSON
+afghanistan,1,1,Afghanistan,GPE
+ag drive music,1,1,AG Drive Music,ORG
+aggies,1,1,Aggies,ORG
+ai,1,1,AI,GPE
+aipac,1,1,AIPAC,ORG
+aka bran had a very casual response,1,1,AKA Bran Had A Very Casual Response,ORG
+al franken,1,1,Al Franken,PERSON
+al gore,1,1,Al Gore,PERSON
+al gore supporters,1,1,Al Gore Supporters,PERSON
+al jarreau,1,1,Al Jarreau,PERSON
+al jazeera,1,1,Al Jazeera,ORG
+al-baghdadi,1,1,al-Baghdadi,ORG
+aladdin,1,1,Aladdin,ORG
+alan turing,1,1,Alan Turing,PERSON
+alan turing's,1,1,Alan Turing's,PERSON
+alana b. elias kornfeld,1,1,Alana B. Elias Kornfeld,PERSON
+alaska,1,1,Alaska,GPE
+albert howard,1,1,Albert Howard,PERSON
+albert pike,1,1,Albert Pike,PERSON
+albrecht,1,1,Albrecht,ORG
+aleksandr kogan,1,1,Aleksandr Kogan,PERSON
+alex ferreira,1,1,Alex Ferreira,PERSON
+alex gorsky,1,1,Alex Gorsky,PERSON
+alexander romanov,1,1,Alexander Romanov,PERSON
+alexander torshin,1,1,Alexander Torshin,PERSON
+alexis olympia's,1,1,Alexis Olympia's,PERSON
+alfonso ribeiro,1,1,Alfonso Ribeiro,PERSON
+ali suliman,1,1,Ali Suliman,PERSON
+alice,1,1,Alice,PERSON
+allied,1,1,Allied,ORG
+almagro,1,1,Almagro,ORG
+aly raisman,1,1,Aly Raisman,PERSON
+alycia chambers,1,1,Alycia Chambers,PERSON
+alyssa milano's,1,1,Alyssa Milano's,PERSON
+amanda seyfried,1,1,Amanda Seyfried,PERSON
+amazon founder offers,1,1,Amazon Founder Offers,ORG
+amazon stock surge,1,1,Amazon Stock Surge,ORG
+amazon web services,1,1,Amazon Web Services,ORG
+amazon.com inc.,1,1,Amazon.com Inc.,ORG
+amazon’s flying warehouse idea isn’t,1,1,Amazon’s Flying Warehouse Idea Isn’t,ORG
+amber,1,1,Amber,PERSON
+american cancer society,1,1,American Cancer Society,ORG
+american cities going broke,1,1,American Cities Going Broke,ORG
+american dream,1,1,American Dream,ORG
+american pharoah cover epitomizes,1,1,American Pharoah Cover Epitomizes,ORG
+american women are getting more sleep than men women,1,1,American Women Are Getting More Sleep Than Men Women,ORG
+amir khan anhydrous,1,1,Amir Khan Anhydrous,PERSON
+amnesty international's,1,1,Amnesty International's,ORG
+amy feldman,1,1,Amy Feldman,PERSON
+amy klobuchar,1,1,Amy Klobuchar,PERSON
+amy mushahwar,1,1,Amy Mushahwar,PERSON
+amy schumer wants,1,1,Amy Schumer Wants,PERSON
+amy schumer watches dad stand,1,1,Amy Schumer Watches Dad Stand,PERSON
+amy schumer's,1,1,Amy Schumer's,PERSON
+amy winehouse's,1,1,Amy Winehouse's,PERSON
+an integrative medicine guide,1,1,An Integrative Medicine Guide,ORG
+andre iguodala,1,1,Andre Iguodala,PERSON
+andre marriner,1,1,Andre Marriner,PERSON
+andrelton simmons,1,1,Andrelton Simmons,PERSON
+andrew lloyd webber told,1,1,Andrew Lloyd Webber Told,PERSON
+andrew longstreth,1,1,Andrew Longstreth,PERSON
+andrew wiggins,1,1,Andrew Wiggins,PERSON
+andy,1,1,Andy,PERSON
+andy puddicombe,1,1,Andy Puddicombe,PERSON
+angel pagan,1,1,Angel Pagan,PERSON
+angela,1,1,Angela,PERSON
+angels,1,1,Angels,ORG
+ann arbor,1,1,Ann Arbor,GPE
+announce winner,1,1,Announce Winner,PERSON
+another executive uber's,1,1,Another Executive Uber's,ORG
+another white house staffer resigns over domestic abuse allegations speechwriter,1,1,Another White House Staffer Resigns Over Domestic Abuse Allegations Speechwriter,ORG
+anthem,1,1,Anthem,PERSON
+anthony rizzo,1,1,Anthony Rizzo,PERSON
+anthony scaramucci,1,1,Anthony Scaramucci,PERSON
+anthony scaramucci's,1,1,Anthony Scaramucci's,PERSON
+anti-abortion,1,1,Anti-Abortion,ORG
+anti-lgbt law,1,1,Anti-LGBT Law,ORG
+anti-lgbt laws,1,1,Anti-LGBT Laws,ORG
+anti-trump tweet apparently,1,1,Anti-Trump Tweet Apparently,ORG
+anti-u.s. sentiment,1,1,Anti-U.S. Sentiment,ORG
+antonio brown's,1,1,Antonio Brown's,PERSON
+antonio denti,1,1,Antonio Denti,PERSON
+aol,1,1,AOL,ORG
+apart donald trump's,1,1,Apart Donald Trump's,PERSON
+apple data leakage battle continues,1,1,Apple Data Leakage Battle Continues,ORG
+apple for a top secret project google,1,1,Apple For A Top Secret Project Google,ORG
+apple pay is finally,1,1,Apple Pay Is Finally,PERSON
+apple relies on,1,1,Apple Relies On,ORG
+apple rumors abound for the future of ios,1,1,Apple Rumors Abound For The Future Of iOS,ORG
+apple store,1,1,Apple Store,PERSON
+apple to fight order to break encryption on san bernardino shooter's,1,1,Apple To Fight Order To Break Encryption On San Bernardino Shooter's,ORG
+apple watch,1,1,Apple Watch,ORG
+apps amid data misuse investigation,1,1,Apps Amid Data Misuse Investigation,ORG
+are women's marches taking place on every continent,1,1,Are Women's Marches Taking Place On Every Continent,ORG
+argentina,1,1,Argentina,GPE
+ariana,1,1,Ariana,GPE
+ariana grande,1,1,Ariana Grande,PERSON
+ariana grande restarts her tour by reminding everyone,1,1,Ariana Grande Restarts Her Tour By Reminding Everyone,ORG
+arianna highlights pro athletes,1,1,Arianna Highlights Pro Athletes,PERSON
+arianna huffington,1,1,Arianna Huffington,PERSON
+arie luyendyk jr.,1,1,Arie Luyendyk Jr.,PERSON
+arie's season of 'the bachelor' is off to the races,1,1,Arie's Season Of 'The Bachelor' Is Off To The Races,ORG
+armin van buuren,1,1,Armin Van Buuren,PERSON
+armour,1,1,Armour,PERSON
+armstrong coal,1,1,Armstrong Coal,PERSON
+army,1,1,Army,ORG
+art,1,1,ART,ORG
+asghar farhadi,1,1,Asghar Farhadi,PERSON
+ashley hyde,1,1,Ashley Hyde,PERSON
+asmir begovic,1,1,Asmir Begovic,PERSON
+assault helped,1,1,Assault Helped,PERSON
+at&t,1,1,AT&T,ORG
+atlanta,1,1,Atlanta,GPE
+atlanta falcons,1,1,Atlanta Falcons,ORG
+atlanta mom,1,1,Atlanta Mom,PERSON
+atlantic city's,1,1,Atlantic City's,GPE
+atlas survival shelter,1,1,Atlas Survival Shelter,PERSON
+att,1,1,ATT,ORG
+auburn fan sinks,1,1,Auburn Fan Sinks,PERSON
+auburn hills,1,1,Auburn Hills,GPE
+auburn students make the cut,1,1,Auburn Students Make The Cut,PERSON
+australia,1,1,Australia,GPE
+autograph now,1,1,Autograph Now,PERSON
+awards season behavior,1,1,Awards Season Behavior,ORG
+awesome pre and post-workout snacks breakfast,1,1,Awesome Pre And Post-Workout Snacks Breakfast,ORG
+ayrton senna,1,1,Ayrton Senna,PERSON
+azerbaijan,1,1,Azerbaijan,GPE
+baby shower,1,1,Baby Shower,PERSON
+bachelorette,1,1,Bachelorette,PERSON
+bad hersfeld,1,1,Bad Hersfeld,PERSON
+baffert,1,1,Baffert,PERSON
+bafta britannia awards,1,1,BAFTA Britannia Awards,ORG
+bafta la britannia awards,1,1,BAFTA LA Britannia Awards,ORG
+baghdad,1,1,Baghdad,GPE
+bain capital sees opportunity in methadone clinics,1,1,Bain Capital Sees Opportunity In Methadone Clinics,ORG
+ball boy,1,1,Ball Boy,PERSON
+ballot photos,1,1,Ballot Photos,GPE
+baltimore protesters,1,1,Baltimore Protesters,ORG
+baltimore ravens,1,1,Baltimore Ravens,ORG
+baltimore ravens cornerback,1,1,Baltimore Ravens Cornerback,ORG
+"ban notorious twitter troll ""targeted",1,1,"Ban Notorious Twitter Troll ""Targeted",PERSON
+ban struck down,1,1,Ban Struck Down,PERSON
+bangalore,1,1,Bangalore,GPE
+bangerz,1,1,Bangerz,ORG
+bank of america,1,1,Bank Of America,ORG
+bank of america back door bailout comes to light,1,1,Bank Of America Back Door Bailout Comes To Light,ORG
+bankrate.com,1,1,Bankrate.com,ORG
+banks' lobbyists help in drafting,1,1,Banks' Lobbyists Help In Drafting,ORG
+banner ads will evolve,1,1,Banner Ads Will Evolve,PERSON
+barclays,1,1,Barclays,ORG
+barclays trader's activities,1,1,Barclays Trader's Activities,ORG
+batboy who died,1,1,Batboy Who Died,PERSON
+baton rouge,1,1,Baton Rouge,GPE
+bbc,1,1,BBC,ORG
+beat donald trump,1,1,Beat Donald Trump,PERSON
+becca hamilton,1,1,Becca Hamilton,PERSON
+becomes second largest social platform,1,1,Becomes Second Largest Social Platform,ORG
+bed bath & beyond,1,1,Bed Bath & Beyond,ORG
+"bed bath & beyond employee quits in style, blasts boss",1,1,"Bed Bath & Beyond Employee Quits In Style, Blasts Boss",ORG
+bee urine,1,1,bee urine,PERSON
+behold rose leslie's,1,1,Behold Rose Leslie's,PERSON
+belarus evan neumann,1,1,Belarus Evan Neumann,PERSON
+belgians suspect dirty,1,1,Belgians Suspect Dirty,ORG
+belgium,1,1,Belgium,GPE
+ben affleck opens,1,1,Ben Affleck Opens,PERSON
+ben affleck's,1,1,Ben Affleck's,PERSON
+bengals,1,1,Bengals,ORG
+benioff,1,1,Benioff,PERSON
+benjamin franklin,1,1,Benjamin Franklin,PERSON
+bernanke,1,1,Bernanke,PERSON
+bernie,1,1,Bernie,PERSON
+bernie sanders floats,1,1,Bernie Sanders Floats,PERSON
+bernie sanders runs,1,1,Bernie Sanders Runs,PERSON
+best actress,1,1,Best Actress,ORG
+best buy,1,1,Best Buy,PERSON
+best buy & target stores,1,1,Best Buy & Target Stores,ORG
+"betaworks, casual corp",1,1,"Betaworks, Casual Corp",ORG
+bethel ame church,1,1,Bethel AME Church,ORG
+beto o'rourke's,1,1,Beto O'Rourke's,PERSON
+better,1,1,Better,PERSON
+better health,1,1,Better Health,ORG
+beyonce,1,1,Beyonce,GPE
+beyoncé,1,1,Beyoncé,ORG
+bidding middle-earth,1,1,Bidding Middle-Earth,PERSON
+biden,1,1,Biden,PERSON
+biden revokes trump's,1,1,Biden Revokes Trump's,PERSON
+bieber,1,1,Bieber,PERSON
+big data,1,1,Big Data,ORG
+bill aims,1,1,Bill Aims,PERSON
+bill belichick,1,1,Bill Belichick,PERSON
+bill cassell,1,1,Bill Cassell,PERSON
+bill could be,1,1,Bill Could Be,PERSON
+bill kristol begins,1,1,Bill Kristol Begins,PERSON
+bill maher,1,1,Bill Maher,PERSON
+bill murray,1,1,Bill Murray,PERSON
+bill murray make,1,1,Bill Murray Make,PERSON
+bill schuette,1,1,Bill Schuette,PERSON
+billy,1,1,Billy,PERSON
+billy butler,1,1,Billy Butler,PERSON
+billy eichner comedy special heading,1,1,Billy Eichner Comedy Special Heading,PERSON
+billy hamilton,1,1,Billy Hamilton,PERSON
+bingaman,1,1,Bingaman,PERSON
+birx,1,1,Birx,PERSON
+bishop t.d. jakes,1,1,Bishop T.D. Jakes,ORG
+bitcoin,1,1,Bitcoin,PERSON
+blackberry,1,1,BlackBerry,ORG
+blackberry killing off classic phone,1,1,BlackBerry Killing Off Classic Phone,ORG
+blade runner',1,1,Blade Runner',PERSON
+blake shelton,1,1,Blake Shelton,PERSON
+blink-182,1,1,Blink-182,GPE
+blitz,1,1,Blitz,ORG
+blood sugar solution challenge,1,1,Blood Sugar Solution Challenge,ORG
+blue origin,1,1,Blue Origin,ORG
+bo xilai,1,1,Bo Xilai,PERSON
+bob easton,1,1,Bob Easton,PERSON
+bob stoops,1,1,Bob Stoops,PERSON
+boeing,1,1,Boeing,ORG
+bofa,1,1,BofA,PERSON
+boosie badazz,1,1,Boosie Badazz,ORG
+borg,1,1,Borg,PERSON
+boston dynamics' 'robot dog',1,1,Boston Dynamics' 'Robot Dog',ORG
+boxer wearing ',1,1,Boxer Wearing ',PERSON
+boy scout,1,1,Boy Scout,GPE
+brad stevens,1,1,Brad Stevens,PERSON
+bradley,1,1,Bradley,PERSON
+brand advocacy,1,1,Brand Advocacy,PERSON
+branden daniel & the chics,1,1,Branden Daniel & The Chics,ORG
+"branden daniel & the chics ""in light"" video is totally groovy",1,1,"Branden Daniel & The Chics ""In Light"" Video is Totally Groovy",ORG
+brandi chastain totally agrees her hall of fame plaque looks nothing like her,1,1,Brandi Chastain Totally Agrees Her Hall Of Fame Plaque Looks Nothing Like Her,ORG
+brandon mccarthy,1,1,Brandon McCarthy,PERSON
+brandon roy,1,1,Brandon Roy,PERSON
+breakfast foods to avoid,1,1,Breakfast Foods To Avoid,ORG
+breastfeeding throwback proves all moms are wonder woman good,1,1,Breastfeeding Throwback Proves All Moms Are Wonder Woman Good,ORG
+brent frei,1,1,Brent Frei,PERSON
+brent musburger,1,1,Brent Musburger,ORG
+breslin center,1,1,Breslin Center,PERSON
+brett lawrie,1,1,Brett Lawrie,PERSON
+brett lawrie barehanded,1,1,Brett Lawrie Barehanded,PERSON
+brian krebs’s,1,1,Brian Krebs’s,PERSON
+brian williams,1,1,Brian Williams,PERSON
+brigham and women's hospital,1,1,Brigham and Women's Hospital,ORG
+britain,1,1,Britain,GPE
+britney spears,1,1,Britney Spears,PERSON
+britney spears warns family,1,1,Britney Spears Warns Family,ORG
+broach,1,1,Broach,PERSON
+bronx,1,1,Bronx,GPE
+brook soso,1,1,Brook Soso,ORG
+brooklyn,1,1,Brooklyn,GPE
+brothel worker,1,1,Brothel Worker,PERSON
+brown,1,1,Brown,PERSON
+browns,1,1,Browns,PERSON
+bruce olson,1,1,Bruce Olson,PERSON
+bruno mars reportedly,1,1,Bruno Mars Reportedly,ORG
+bud norris,1,1,Bud Norris,PERSON
+buddy ryan dead,1,1,Buddy Ryan Dead,PERSON
+bug could allow strangers to browse personal data on your iphone well,1,1,Bug Could Allow Strangers To Browse Personal Data On Your iPhone Well,ORG
+build,1,1,Build,PERSON
+burger king®,1,1,BURGER KING®,ORG
+business owner,1,1,Business Owner,ORG
+butler,1,1,Butler,ORG
+butler' letter to warner bros.,1,1,Butler' Letter To Warner Bros.,ORG
+buy,1,1,Buy,PERSON
+buys second home,1,1,Buys Second Home,ORG
+buzzer gives celtics,1,1,Buzzer Gives Celtics,ORG
+buzzfeed sports,1,1,BuzzFeed Sports,ORG
+c.e.o.,1,1,C.E.O.,ORG
+c.s. lewis,1,1,C.S. Lewis,PERSON
+caddie,1,1,Caddie,PERSON
+cadillac,1,1,Cadillac,ORG
+caitlyn jenner,1,1,Caitlyn Jenner,PERSON
+cake we,1,1,Cake We,PERSON
+calabria,1,1,Calabria,GPE
+california chrome,1,1,California Chrome,ORG
+california see residents favor local over big banks people,1,1,California See Residents Favor Local Over Big Banks People,ORG
+california western school,1,1,California Western School,ORG
+calvin harris,1,1,Calvin Harris,PERSON
+camera returned to him,1,1,Camera Returned To Him,PERSON
+campaigns are coordinating,1,1,Campaigns Are Coordinating,ORG
+canceling tour,1,1,Canceling Tour,PERSON
+cancer,1,1,Cancer,PERSON
+cancer-related commentary (post-chemo,1,1,Cancer-Related Commentary (Post-Chemo,ORG
+candice bergen,1,1,Candice Bergen,PERSON
+cape cod,1,1,Cape Cod,PERSON
+cara delevingne,1,1,Cara Delevingne,PERSON
+carey,1,1,Carey,PERSON
+carla ardito,1,1,Carla Ardito,PERSON
+carly fiorina,1,1,Carly Fiorina,ORG
+carolina,1,1,Carolina,ORG
+caroline rhea,1,1,Caroline Rhea,PERSON
+carpool karaoke',1,1,Carpool Karaoke',PERSON
+carr,1,1,Carr,PERSON
+carrie hurt,1,1,Carrie Hurt,PERSON
+casey,1,1,Casey,PERSON
+cast,1,1,Cast,PERSON
+cavs,1,1,Cavs,PERSON
+cavs fan,1,1,Cavs Fan,PERSON
+cbs,1,1,CBS,ORG
+cc sabathia checks himself into alcohol rehab center,1,1,CC Sabathia Checks Himself Into Alcohol Rehab Center,ORG
+cdc,1,1,CDC,ORG
+cdc mandates face masks on airplanes and public transportation,1,1,CDC Mandates Face Masks On Airplanes And Public Transportation,ORG
+celebrities and drug addiction,1,1,Celebrities and Drug Addiction,ORG
+celiac,1,1,Celiac,PERSON
+cfpb,1,1,CFPB,ORG
+chad johnson,1,1,Chad Johnson,PERSON
+chandler,1,1,Chandler,PERSON
+charles,1,1,Charles,PERSON
+charles manson mesmerized,1,1,Charles Manson Mesmerized,PERSON
+charlie sheen,1,1,Charlie Sheen,PERSON
+charlie sheen wants,1,1,Charlie Sheen Wants,PERSON
+charlottesville,1,1,Charlottesville,GPE
+charlottesville marches,1,1,Charlottesville Marches,PERSON
+chart,1,1,CHART,ORG
+chase,1,1,Chase,ORG
+chase overdraft fee won't apply to purchases,1,1,Chase Overdraft Fee Won't Apply To Purchases,ORG
+cheapest tablet in action,1,1,Cheapest Tablet In Action,ORG
+chertoff,1,1,Chertoff,PERSON
+cheryl cole,1,1,Cheryl Cole,PERSON
+cheyenne jackson thinks ',1,1,Cheyenne Jackson Thinks ',PERSON
+chicago bakery employees,1,1,Chicago Bakery Employees,ORG
+chicago sun-times,1,1,Chicago Sun-Times,ORG
+chicken wings,1,1,Chicken Wings,PERSON
+china factory robots: country's,1,1,China Factory Robots: Country's,ORG
+chipotle,1,1,Chipotle,PERSON
+chlorine trains pose an,1,1,Chlorine Trains Pose An,PERSON
+cholesterol riskier,1,1,Cholesterol Riskier,PERSON
+chongqing,1,1,Chongqing,GPE
+chris andersen,1,1,Chris Andersen,PERSON
+chris anderson chris anderson,1,1,Chris Anderson Chris Anderson,PERSON
+chris botti,1,1,Chris Botti,PERSON
+chris harrison,1,1,Chris Harrison,PERSON
+chris hemsworth,1,1,Chris Hemsworth,PERSON
+chris hemsworth knows ',1,1,Chris Hemsworth Knows ',PERSON
+chris hemsworth's,1,1,Chris Hemsworth's,PERSON
+chris johnson,1,1,Chris Johnson,PERSON
+chris mazdzer,1,1,Chris Mazdzer,PERSON
+chris paul really,1,1,Chris Paul Really,PERSON
+chris rock,1,1,Chris Rock,PERSON
+chris spurlock,1,1,Chris Spurlock,PERSON
+chris stapleton,1,1,Chris Stapleton,PERSON
+chris webber,1,1,Chris Webber,PERSON
+chrissy,1,1,Chrissy,ORG
+christopher hasson,1,1,Christopher Hasson,PERSON
+chuck berry,1,1,Chuck Berry,PERSON
+chuck berry keith,1,1,Chuck Berry Keith,PERSON
+cia,1,1,CIA,ORG
+cimb classic kuala lumpur,1,1,CIMB Classic KUALA LUMPUR,ORG
+cincinnati,1,1,Cincinnati,GPE
+cio,1,1,CIO,ORG
+city of life,1,1,City of Life,ORG
+claire danes,1,1,Claire Danes,PERSON
+classic drug scenes,1,1,Classic Drug Scenes,ORG
+cleaner air may,1,1,Cleaner Air May,PERSON
+cleveland browns,1,1,Cleveland Browns,ORG
+cleveland radio host spouts misogynistic crap,1,1,Cleveland Radio Host Spouts Misogynistic Crap,ORG
+clinton speech b-roll,1,1,Clinton Speech B-Roll,PERSON
+cloud ready,1,1,Cloud Ready,PERSON
+clueless american diplomat,1,1,Clueless American Diplomat,ORG
+cnbc,1,1,CNBC,ORG
+coach,1,1,Coach,ORG
+coachella-goers freak out,1,1,Coachella-Goers Freak Out,ORG
+coal company officials plead guilty,1,1,Coal Company Officials Plead Guilty,ORG
+coast guard,1,1,Coast Guard,ORG
+cody simpson strips down,1,1,Cody Simpson Strips Down,PERSON
+cohen,1,1,Cohen,PERSON
+colin farrell,1,1,Colin Farrell,PERSON
+colin kaepernick should,1,1,Colin Kaepernick Should,PERSON
+colin kaepernick's,1,1,Colin Kaepernick's,PERSON
+college computer student,1,1,College Computer Student,ORG
+college financial aid letters deceive prospective students the education department,1,1,College Financial Aid Letters Deceive Prospective Students The Education Department,ORG
+collins,1,1,Collins,PERSON
+colorado springs,1,1,Colorado Springs,GPE
+comcast,1,1,Comcast,ORG
+comcast the public interest,1,1,Comcast The Public Interest,ORG
+come easily,1,1,Come Easily,ORG
+comedians on technology,1,1,Comedians On Technology,ORG
+comedy central's,1,1,Comedy Central's,ORG
+comedy sketch gives,1,1,Comedy Sketch Gives,PERSON
+complaint against time warner cable,1,1,Complaint Against Time Warner Cable,ORG
+computerworld,1,1,Computerworld,ORG
+conan o'brien,1,1,Conan O'Brien,PERSON
+concert toni braxton,1,1,Concert Toni Braxton,PERSON
+conch shells,1,1,Conch Shells,PERSON
+concord,1,1,CONCORD,ORG
+condemns trump,1,1,Condemns Trump,PERSON
+condoleezza rice calls,1,1,Condoleezza Rice Calls,PERSON
+confederate,1,1,Confederate,ORG
+congress punts,1,1,Congress Punts,ORG
+connecticut,1,1,Connecticut,GPE
+consumer privacy legislation privacy,1,1,Consumer Privacy Legislation Privacy,ORG
+contact lens infection nearly blinds high-schooler ashley hyde,1,1,Contact Lens Infection Nearly Blinds High-Schooler Ashley Hyde,ORG
+contributes,1,1,Contributes,ORG
+convicted,1,1,Convicted,PERSON
+copperfield,1,1,Copperfield,PERSON
+corey haim rape allegation,1,1,Corey Haim Rape Allegation,PERSON
+cornell,1,1,Cornell,ORG
+cornell university's food and brand lab,1,1,Cornell University's Food and Brand Lab,ORG
+cory booker,1,1,Cory Booker,PERSON
+cousins,1,1,COUSINS,ORG
+cpr,1,1,CPR,ORG
+created digital inequality,1,1,Created Digital Inequality,ORG
+credit card applications,1,1,Credit Card Applications,ORG
+credit score truths,1,1,Credit Score Truths,ORG
+credit unions,1,1,Credit Unions,ORG
+credit unions:,1,1,Credit Unions:,ORG
+cris collinsworth,1,1,Cris Collinsworth,PERSON
+crisp bee urine,1,1,Crisp Bee Urine,PERSON
+cristiano ronaldo snaps family photo,1,1,Cristiano Ronaldo Snaps Family Photo,ORG
+cruz,1,1,Cruz,PERSON
+csx corp.,1,1,CSX Corp.,ORG
+ct,1,1,CT,ORG
+culkin goes ghoulish,1,1,Culkin Goes Ghoulish,PERSON
+curry,1,1,Curry,PERSON
+customer service,1,1,Customer Service,ORG
+cutest little baseball player stops,1,1,Cutest Little Baseball Player Stops,ORG
+cuts short raven saunders',1,1,Cuts Short Raven Saunders',PERSON
+cybersecurity weakened,1,1,Cybersecurity Weakened,ORG
+d'angelo russell's,1,1,D'Angelo Russell's,PERSON
+dabo swinney,1,1,Dabo Swinney,PERSON
+daca,1,1,DACA,ORG
+daily dot,1,1,Daily Dot,PERSON
+dalvin cook,1,1,Dalvin Cook,PERSON
+dalvin cook found not guilty of battery,1,1,Dalvin Cook Found Not Guilty Of Battery,PERSON
+dan pompei,1,1,Dan Pompei,PERSON
+dance like the fbi’s watching,1,1,Dance Like The FBI’s Watching,ORG
+daniel dale,1,1,Daniel Dale,PERSON
+daniel sturridge,1,1,Daniel Sturridge,PERSON
+dark money,1,1,Dark Money,ORG
+darrell armstrong's,1,1,Darrell Armstrong's,PERSON
+dataminr,1,1,Dataminr,ORG
+datawind,1,1,DataWind,ORG
+daughter’s ex-husband,1,1,Daughter’s Ex-Husband,PERSON
+dave,1,1,Dave,PERSON
+dave eggers',1,1,Dave Eggers',PERSON
+dave miller,1,1,Dave Miller,PERSON
+davey alba,1,1,Davey Alba,PERSON
+david,1,1,David,PERSON
+david bowie,1,1,David Bowie,PERSON
+david cameron,1,1,David Cameron,PERSON
+david grotto,1,1,David Grotto,PERSON
+david koch’s,1,1,David Koch’s,PERSON
+david letterman's,1,1,David Letterman's,PERSON
+david o. russell seems,1,1,David O. Russell Seems,PERSON
+david ross,1,1,David Ross,PERSON
+david schawel,1,1,David Schawel,PERSON
+david sorensen,1,1,David Sorensen,PERSON
+david stern's,1,1,David Stern's,PERSON
+davis cup 2012,1,1,Davis Cup 2012,PERSON
+dc comics,1,1,DC Comics,ORG
+de-stressing inspiration from cats and dogs (photos,1,1,De-Stressing Inspiration From Cats And Dogs (PHOTOS,ORG
+deadpool,1,1,Deadpool,GPE
+deangelo,1,1,DeAngelo,PERSON
+deangelo williams wants,1,1,DeAngelo Williams Wants,PERSON
+death,1,1,Death,PERSON
+dee gordon,1,1,Dee Gordon,PERSON
+deepak chopra on living,1,1,Deepak Chopra on Living,ORG
+deficit hawks ',1,1,Deficit Hawks ',PERSON
+deflategate,1,1,Deflategate,ORG
+deford,1,1,Deford,ORG
+delaware,1,1,Delaware,GPE
+delorean,1,1,DeLorean,ORG
+demands fauci’s,1,1,Demands Fauci’s,PERSON
+demario jackson,1,1,DeMario Jackson,PERSON
+demi lovato encourages instagram followers,1,1,Demi Lovato Encourages Instagram Followers,ORG
+democratic presidential candidates sound very similar on immigration trump’s,1,1,Democratic Presidential Candidates Sound Very Similar On Immigration Trump’s,ORG
+demogorgon,1,1,Demogorgon,ORG
+dempsey,1,1,Dempsey,GPE
+denies government's,1,1,Denies Government's,ORG
+desean jackson denies being,1,1,DeSean Jackson Denies Being,ORG
+devos finally agrees federal dollars should,1,1,DeVos Finally Agrees Federal Dollars Should,ORG
+dexter fowler,1,1,Dexter Fowler,PERSON
+diane keaton,1,1,Diane Keaton,PERSON
+dick cheney,1,1,Dick Cheney,PERSON
+dick costolo,1,1,Dick Costolo,PERSON
+dick gephardt,1,1,Dick Gephardt,PERSON
+dies after dirt bike crash,1,1,Dies After Dirt Bike Crash,ORG
+digital,1,1,Digital,ORG
+digital age technology,1,1,Digital Age Technology,ORG
+digital voices and corporate reputation,1,1,Digital Voices and Corporate Reputation,ORG
+dilbert',1,1,Dilbert',PERSON
+dilbert’s,1,1,Dilbert’s,PERSON
+dion returns,1,1,Dion Returns,PERSON
+disney,1,1,Disney,ORG
+disney star debby ryan,1,1,Disney Star Debby Ryan,PERSON
+disney world,1,1,Disney World,ORG
+disorders handbook,1,1,Disorders Handbook,PERSON
+dixon,1,1,Dixon,PERSON
+djokovic,1,1,Djokovic,ORG
+dodd-frank,1,1,Dodd-Frank,ORG
+dominique strauss-kahn,1,1,Dominique Strauss-Kahn,PERSON
+don draper's,1,1,Don Draper's,ORG
+donald,1,1,Donald,PERSON
+donald trump ',1,1,Donald Trump ',PERSON
+donald trump dodges,1,1,Donald Trump Dodges,PERSON
+donald trump floats gross,1,1,Donald Trump Floats Gross,PERSON
+donald trump has,1,1,Donald Trump Has,PERSON
+donald trump hotels,1,1,Donald Trump Hotels,PERSON
+donald trump loyalists,1,1,Donald Trump Loyalists,PERSON
+donald trump poised,1,1,Donald Trump Poised,PERSON
+donald trump surrogate,1,1,Donald Trump Surrogate,PERSON
+donald trumps claims 'many,1,1,Donald Trumps Claims 'Many,PERSON
+donald trump’s remarks,1,1,Donald Trump’s Remarks,PERSON
+doomsday bunker,1,1,Doomsday Bunker,PERSON
+dorothy mengering,1,1,Dorothy Mengering,PERSON
+doug clark,1,1,Doug Clark,PERSON
+doug jones,1,1,Doug Jones,PERSON
+down marine,1,1,Down Marine,PERSON
+down robert mueller's,1,1,Down Robert Mueller's,PERSON
+draftkings investigation answers,1,1,DraftKings Investigation Answers,ORG
+draper,1,1,Draper,ORG
+draymond green reportedly arrested on assault charges,1,1,Draymond Green Reportedly Arrested On Assault Charges,ORG
+dreamworks,1,1,DreamWorks,ORG
+drew barrymore fangirling,1,1,Drew Barrymore Fangirling,PERSON
+drugstore gifts,1,1,Drugstore Gifts,PERSON
+drugstores,1,1,Drugstores,PERSON
+duke,1,1,Duke,PERSON
+duke university,1,1,Duke University,ORG
+duncan,1,1,Duncan,PERSON
+duterte,1,1,Duterte,GPE
+dvir benedek,1,1,Dvir Benedek,PERSON
+dwyane wade,1,1,Dwyane Wade,PERSON
+e-sports organizations are going to launch governing body for pro video gaming think,1,1,E-Sports Organizations Are Going To Launch Governing Body For Pro Video Gaming Think,ORG
+eastern,1,1,Eastern,ORG
+ebay,1,1,eBay,ORG
+eckhart tolle's,1,1,Eckhart Tolle's,ORG
+ed olson,1,1,Ed Olson,PERSON
+ed sheeran,1,1,Ed Sheeran,PERSON
+edward snowden,1,1,Edward Snowden,PERSON
+edwin chan,1,1,Edwin Chan,PERSON
+edwin rivera,1,1,Edwin Rivera,PERSON
+ego undermines,1,1,Ego Undermines,PERSON
+egypt,1,1,Egypt,GPE
+eileen fisher,1,1,Eileen Fisher,PERSON
+elderly texas couple,1,1,Elderly Texas Couple,ORG
+eli manning,1,1,Eli Manning,ORG
+elias,1,1,Elias,PERSON
+elizabeth rooney,1,1,Elizabeth Rooney,PERSON
+ellen page's,1,1,Ellen Page's,PERSON
+ellen pao drops lawsuit,1,1,Ellen Pao Drops Lawsuit,PERSON
+ellen shanman‘s,1,1,Ellen Shanman‘s,PERSON
+ellie goulding's ',1,1,Ellie Goulding's ',PERSON
+elon musk wants,1,1,Elon Musk Wants,PERSON
+elway,1,1,Elway,PERSON
+emily ratajkowski sizzles,1,1,Emily Ratajkowski Sizzles,PERSON
+eminem gives strange interview,1,1,Eminem Gives Strange Interview,ORG
+emma stone,1,1,Emma Stone,PERSON
+emma watson,1,1,Emma Watson,PERSON
+emmys,1,1,Emmys,GPE
+entrepreneur,1,1,Entrepreneur,PERSON
+entreprenuer,1,1,Entreprenuer,ORG
+equestrian media center organizers,1,1,Equestrian Media Center Organizers,ORG
+eric edholm,1,1,Eric Edholm,PERSON
+eric garner,1,1,Eric Garner,PERSON
+eric hartsburg,1,1,Eric Hartsburg,PERSON
+eric mccormack,1,1,Eric McCormack,PERSON
+eric really,1,1,Eric Really,PERSON
+eric reid,1,1,Eric Reid,PERSON
+eric trump,1,1,Eric Trump,PERSON
+eric trump actually,1,1,Eric Trump Actually,PERSON
+eric weddle fined,1,1,Eric Weddle Fined,PERSON
+erick erickson,1,1,Erick Erickson,PERSON
+erin andrews,1,1,Erin Andrews,PERSON
+erin jackson,1,1,Erin Jackson,PERSON
+eritrea,1,1,Eritrea,GPE
+erykah badu,1,1,Erykah Badu,PERSON
+esh,1,1,Esh,PERSON
+espn,1,1,ESPN,ORG
+essential habits of exceptional leaders one,1,1,Essential Habits of Exceptional Leaders One,ORG
+everett golson no longer,1,1,Everett Golson No Longer,PERSON
+exxon on climate change,1,1,Exxon On Climate Change,ORG
+eye-popping passes,1,1,Eye-Popping Passes,ORG
+f1,1,1,F1,GPE
+facebook,1,1,Facebook,ORG
+facebook accidentally,1,1,Facebook Accidentally,PERSON
+facebook inc.,1,1,Facebook Inc.,ORG
+facebook shares numbers on government data requests,1,1,Facebook Shares Numbers On Government Data Requests,ORG
+facebook smashes expectations,1,1,Facebook Smashes Expectations,PERSON
+facebook tightens rules on who can cash in on ads,1,1,Facebook Tightens Rules On Who Can Cash In On Ads,ORG
+facebook's,1,1,Facebook's,ORG
+facebook's tracking of non-users sparks broader privacy concerns,1,1,Facebook's Tracking Of Non-Users Sparks Broader Privacy Concerns,ORG
+facebook's trending news topics will now be automated,1,1,Facebook's Trending News Topics Will Now Be Automated,ORG
+faces election fraud accusations,1,1,Faces Election Fraud Accusations,PERSON
+fact-checker rips,1,1,Fact-Checker Rips,ORG
+fact-checking the third democratic debate,1,1,Fact-Checking The Third Democratic Debate,ORG
+faith hill,1,1,Faith Hill,PERSON
+fake youtube views cut,1,1,Fake YouTube Views Cut,ORG
+falcon,1,1,Falcon,ORG
+famed russian mystic,1,1,Famed Russian Mystic,ORG
+fans confuse,1,1,Fans Confuse,ORG
+fastcompany,1,1,FastCompany,ORG
+fatma samba,1,1,Fatma Samba,PERSON
+fcc,1,1,FCC,ORG
+fcc can free the cities most,1,1,FCC Can Free the Cities Most,ORG
+fcc petition for investigation,1,1,FCC Petition for Investigation,ORG
+federal reserve,1,1,Federal Reserve,ORG
+feds say,1,1,Feds Say,PERSON
+felony voting laws are confusing,1,1,Felony Voting Laws Are Confusing,ORG
+female sportscasters reveal their own harassment woes even,1,1,Female Sportscasters Reveal Their Own Harassment Woes Even,ORG
+fetty wap,1,1,Fetty Wap,PERSON
+fewer americans,1,1,Fewer Americans,ORG
+fiancé punched,1,1,Fiancé Punched,PERSON
+fierce advocacy for,1,1,Fierce Advocacy for,PERSON
+fifth third join banks offering simplified checking account fee disclosures bank of america,1,1,Fifth Third Join Banks Offering Simplified Checking Account Fee Disclosures Bank of America,ORG
+filmmaker rory kennedy,1,1,Filmmaker Rory Kennedy,PERSON
+financial advisers are scaling down summer vacation,1,1,Financial Advisers Are Scaling Down Summer Vacation,ORG
+financial advisors are biased,1,1,Financial Advisors Are Biased,ORG
+fingerprint-checking smartphone patent filed,1,1,Fingerprint-Checking Smartphone Patent Filed,ORG
+finn wittrock,1,1,Finn Wittrock,PERSON
+firm chair,1,1,Firm Chair,PERSON
+firm chair of quarles & brady,1,1,Firm Chair of Quarles & Brady,ORG
+first amendment,1,1,First Amendment,ORG
+first home game,1,1,First Home Game,ORG
+first new song in,1,1,First New Song In,ORG
+first peek of ',1,1,First Peek Of ',ORG
+first question for a prospect: are you gay,1,1,First Question For A Prospect: Are You Gay,ORG
+fisher,1,1,Fisher,PERSON
+flint,1,1,Flint,GPE
+flip men: secrets,1,1,Flip Men: Secrets,PERSON
+flood social,1,1,Flood Social,ORG
+florida state,1,1,Florida State,ORG
+florida state football player accused of punching a woman,1,1,Florida State Football Player Accused Of Punching A Woman,ORG
+floyd mayweather,1,1,Floyd Mayweather,PERSON
+foia,1,1,FOIA,ORG
+foo fighters cover ',1,1,Foo Fighters Cover ',ORG
+forbes leadership,1,1,Forbes Leadership,ORG
+force,1,1,Force,ORG
+forewarned forearmed,1,1,Forewarned Forearmed,PERSON
+forgiveness,1,1,Forgiveness,ORG
+founder,1,1,Founder,PERSON
+founder of shop-hers,1,1,Founder of Shop-Hers,ORG
+fox makes sickening exit,1,1,Fox Makes Sickening Exit,ORG
+fox news',1,1,Fox News',ORG
+fox sports',1,1,Fox Sports',ORG
+frances moore lappé,1,1,Frances Moore Lappé,PERSON
+frances rosario,1,1,Frances Rosario,PERSON
+frank deford dead,1,1,Frank Deford Dead,PERSON
+french fries,1,1,French Fries,ORG
+freshwire,1,1,Freshwire,PERSON
+fsu,1,1,FSU,ORG
+fuji,1,1,Fuji,PERSON
+funding hulk hogan's,1,1,Funding Hulk Hogan's,PERSON
+g+,1,1,G+,PERSON
+g.o.a.t.,1,1,G.O.A.T.,ORG
+"gabrielle union regrets how she approached her 'bring it on' character ""i",1,1,"Gabrielle Union Regrets How She Approached Her 'Bring It On' Character ""I",ORG
+gaby hoffmann,1,1,Gaby Hoffmann,PERSON
+gal gadot,1,1,Gal Gadot,PERSON
+gallup,1,1,Gallup,ORG
+gallup daily tracking/the gallup-healthways,1,1,Gallup Daily Tracking/The Gallup-Healthways,ORG
+gang,1,1,Gang,PERSON
+gap's colorful jeans propel,1,1,Gap's Colorful Jeans Propel,ORG
+gap’s,1,1,Gap’s,ORG
+gardner's fake schedule conflict,1,1,Gardner's Fake Schedule Conflict,ORG
+gary busey,1,1,Gary Busey,PERSON
+gary pinkel,1,1,Gary Pinkel,PERSON
+gave stanford,1,1,Gave Stanford,PERSON
+gawker,1,1,Gawker,PERSON
+gayle lemmon,1,1,Gayle Lemmon,PERSON
+gaza,1,1,Gaza,GPE
+general dentistry,1,1,General Dentistry,ORG
+generation distraction,1,1,Generation Distraction,ORG
+generation opportunity,1,1,Generation Opportunity,ORG
+george and amal clooney’s support,1,1,George And Amal Clooney’s Support,PERSON
+george duke,1,1,George Duke,PERSON
+george michael after,1,1,George Michael After,PERSON
+george r. r. martin,1,1,George R. R. Martin,PERSON
+george r. r. martin loves marvel,1,1,George R. R. Martin Loves Marvel,PERSON
+george washington,1,1,George Washington,PERSON
+georgia,1,1,Georgia,GPE
+gerard butler,1,1,Gerard Butler,PERSON
+german team,1,1,German Team,ORG
+german workers,1,1,German Workers,ORG
+gerry shih aoun's,1,1,Gerry Shih Aoun's,PERSON
+getting ahead,1,1,Getting Ahead,ORG
+getting rid,1,1,Getting Rid,PERSON
+getting them met,1,1,Getting Them Met,ORG
+ghana,1,1,Ghana,GPE
+gianni infantino,1,1,Gianni Infantino,PERSON
+giants unravel,1,1,Giants Unravel,ORG
+ginseng could decrease cancer-related fatigue,1,1,Ginseng Could Decrease Cancer-Related Fatigue,PERSON
+glass,1,1,Glass,PERSON
+global e&e,1,1,Global E&E,ORG
+global malaria control efforts,1,1,Global Malaria Control Efforts,ORG
+global multiple sclerosis cases increase,1,1,Global Multiple Sclerosis Cases Increase,ORG
+globe,1,1,Globe,ORG
+globe university,1,1,Globe University,ORG
+gluten-free diet is responsible,1,1,Gluten-Free Diet Is Responsible,PERSON
+gm,1,1,GM,ORG
+gmail,1,1,Gmail,PERSON
+gmo,1,1,GMO,ORG
+gmo foods,1,1,GMO Foods,ORG
+going beyond techniques concentration,1,1,Going Beyond Techniques Concentration,ORG
+gold star mother's,1,1,Gold Star Mother's,ORG
+golf fan runs onto,1,1,Golf Fan Runs Onto,PERSON
+good luck',1,1,Good Luck',PERSON
+good news about life expectancy for young americans with hiv based,1,1,Good News About Life Expectancy For Young Americans With HIV Based,ORG
+goodell,1,1,Goodell,PERSON
+goodyear,1,1,Goodyear,ORG
+goodyear recalls,1,1,Goodyear Recalls,ORG
+google casts a big shadow on smaller web sites starting,1,1,Google Casts A Big Shadow On Smaller Web Sites STARTING,ORG
+google decision could spark patent war,1,1,Google Decision Could Spark Patent War,ORG
+google event,1,1,Google Event,ORG
+google glass,1,1,Google Glass,PERSON
+google hires,1,1,Google Hires,ORG
+google’s unknown campaign to track the world’s hottest startups,1,1,Google’s Unknown Campaign To Track the World’s Hottest Startups,ORG
+gop lawmaker,1,1,GOP Lawmaker,ORG
+gop senate,1,1,GOP Senate,ORG
+gopro omni,1,1,GoPro Omni,PERSON
+gordon ramsay,1,1,Gordon Ramsay,PERSON
+grace being,1,1,Grace Being,PERSON
+grammys hand out,1,1,Grammys Hand Out,PERSON
+granite state,1,1,Granite State,ORG
+grassley,1,1,Grassley,PERSON
+greatist,1,1,Greatist,PERSON
+green party,1,1,Green Party,ORG
+greenpeace,1,1,Greenpeace,PERSON
+greg james',1,1,Greg James',PERSON
+greg schiano,1,1,Greg Schiano,PERSON
+gregg popovich wishes he ‘,1,1,Gregg Popovich Wishes He ‘,PERSON
+grete,1,1,Grete,ORG
+group,1,1,Group,ORG
+guide to surviving,1,1,Guide To Surviving,ORG
+guillermo del toro's,1,1,Guillermo del Toro's,ORG
+gwen stefani confirm relationship,1,1,Gwen Stefani Confirm Relationship,ORG
+haagen-dazs free cone day 2012,1,1,Haagen-Dazs Free Cone Day 2012,ORG
+hackers target apple customers with ransomware attack ransomware,1,1,Hackers Target Apple Customers With Ransomware Attack Ransomware,ORG
+hacktivist group anonymous releases,1,1,Hacktivist Group Anonymous Releases,ORG
+haim,1,1,Haim,PERSON
+hamblin,1,1,Hamblin,GPE
+harney county,1,1,Harney County,GPE
+harry potter,1,1,Harry Potter,PERSON
+harry potter',1,1,Harry Potter',PERSON
+harry styles,1,1,Harry Styles,PERSON
+harry styles',1,1,Harry Styles',PERSON
+harsh,1,1,Harsh,ORG
+hartsburg,1,1,Hartsburg,GPE
+harvard,1,1,Harvard,ORG
+harvard medical school,1,1,Harvard Medical School,ORG
+harvey weinstein facing criminal,1,1,Harvey Weinstein Facing Criminal,PERSON
+harvey’s,1,1,Harvey’s,PERSON
+hasbro,1,1,Hasbro,ORG
+hateful conduct',1,1,Hateful Conduct',PERSON
+hawaii developer under fire for segregated 'poor door' for renters,1,1,Hawaii Developer Under Fire For Segregated 'Poor Door' For Renters,ORG
+hawks,1,1,Hawks,ORG
+hawks return,1,1,Hawks Return,PERSON
+hbcu,1,1,HBCU,ORG
+headliner beyoncé,1,1,Headliner Beyoncé,PERSON
+heads,1,1,Heads,GPE
+health and safety protocols,1,1,Health and Safety Protocols,ORG
+health department,1,1,Health Department,ORG
+healthier,1,1,Healthier,GPE
+healthy gifts,1,1,Healthy Gifts,PERSON
+healthy living,1,1,Healthy Living,PERSON
+heartbreakers,1,1,Heartbreakers,ORG
+heartburn,1,1,Heartburn,PERSON
+heather walker,1,1,Heather Walker,PERSON
+hedges,1,1,Hedges,ORG
+helen maroulis beats,1,1,Helen Maroulis Beats,PERSON
+helen mirren eloquently,1,1,Helen Mirren Eloquently,PERSON
+helping newtown,1,1,Helping Newtown,PERSON
+hemophilia,1,1,Hemophilia,GPE
+henderson,1,1,Henderson,GPE
+henry,1,1,Henry,PERSON
+higby,1,1,Higby,ORG
+hillary,1,1,Hillary,PERSON
+hillary clinton's,1,1,Hillary Clinton's,PERSON
+himank sharma,1,1,Himank Sharma,PERSON
+historic scottish golf course,1,1,Historic Scottish Golf Course,PERSON
+hobbit,1,1,Hobbit,ORG
+hobica,1,1,Hobica,PERSON
+hockey player takes shot,1,1,Hockey Player Takes Shot,PERSON
+holiday shopping,1,1,Holiday Shopping,ORG
+homa hoodfar's,1,1,Homa Hoodfar's,PERSON
+home for peculiar children',1,1,Home For Peculiar Children',ORG
+home fries,1,1,Home Fries,ORG
+homeland security panel wants to quit for-profit immigrant detention,1,1,Homeland Security Panel Wants To Quit For-Profit Immigrant Detention,ORG
+homophobia,1,1,Homophobia,ORG
+hooray,1,1,hooray,PERSON
+horizon,1,1,Horizon,ORG
+hospice care: no one should die alone,1,1,Hospice Care: No One Should Die Alone,ORG
+hot new viber stickers talking,1,1,Hot New Viber Stickers Talking,ORG
+house burglarized while patriots were,1,1,House Burglarized While Patriots Were,ORG
+hp,1,1,HP,ORG
+huang,1,1,Huang,PERSON
+huffington post reader question,1,1,Huffington Post Reader Question,ORG
+huffpost hill,1,1,HUFFPOST HILL,ORG
+huffpost hill -,1,1,HUFFPOST HILL -,ORG
+huffpost live,1,1,HuffPost Live,ORG
+huffpost's,1,1,HuffPost's,ORG
+hugh jackman,1,1,Hugh Jackman,PERSON
+hummingbird,1,1,Hummingbird,GPE
+hunter,1,1,Hunter,PERSON
+hunter mahan,1,1,Hunter Mahan,PERSON
+hurricane sandy,1,1,Hurricane Sandy,ORG
+häagen-dazs,1,1,Häagen-Dazs,ORG
+ian burkhart,1,1,Ian Burkhart,PERSON
+ichiro,1,1,Ichiro,PERSON
+ichiro suzuki,1,1,Ichiro Suzuki,PERSON
+igf,1,1,IGF,ORG
+ignore ryan lochte’s,1,1,Ignore Ryan Lochte’s,PERSON
+ihs isuppli's,1,1,IHS iSuppli's,ORG
+illinois mega millions winner,1,1,Illinois Mega Millions Winner,ORG
+imac look eerily similar,1,1,iMac Look Eerily Similar,ORG
+inbox zero',1,1,Inbox Zero',PERSON
+india,1,1,India,GPE
+indonesia,1,1,Indonesia,GPE
+inequality the center of the 2016,1,1,Inequality The Center Of The 2016,ORG
+innovation endeavours,1,1,Innovation Endeavours,ORG
+insert,1,1,Insert,PERSON
+integrate social media with your seo campaign,1,1,Integrate Social Media With Your SEO Campaign,ORG
+intel,1,1,Intel,ORG
+intel core i7 quad-core desktop,1,1,Intel Core i7 Quad-Core Desktop,ORG
+international 'rogue one',1,1,International 'Rogue One',ORG
+international labour organization report,1,1,International Labour Organization Report,ORG
+introvert,1,1,Introvert,PERSON
+iom,1,1,IOM,ORG
+iowa,1,1,Iowa,GPE
+ipad mini,1,1,IPad Mini,PERSON
+ipad mini retina',1,1,iPad Mini Retina',PERSON
+ipad mini with retina,1,1,iPad Mini With Retina,PERSON
+iphone 5 announcement,1,1,IPhone 5 Announcement,ORG
+iphone be unlocked the justice department,1,1,iPhone Be Unlocked The Justice Department,ORG
+ipo,1,1,IPO,ORG
+isaac hempstead wright,1,1,Isaac Hempstead Wright,PERSON
+isil,1,1,ISIL,ORG
+isis-turkey links,1,1,ISIS-Turkey Links,ORG
+islamophobia,1,1,Islamophobia,ORG
+israel,1,1,Israel,GPE
+italy,1,1,Italy,GPE
+jabari parker,1,1,Jabari Parker,PERSON
+jack osbourne's,1,1,Jack Osbourne's,PERSON
+jack sock,1,1,Jack Sock,PERSON
+jackson,1,1,Jackson,PERSON
+jaclyn shanfeld,1,1,Jaclyn Shanfeld,PERSON
+jake paul charged,1,1,Jake Paul Charged,PERSON
+jakrapong kongmalai,1,1,Jakrapong Kongmalai,PERSON
+jamaica,1,1,Jamaica,GPE
+james corden reveals,1,1,James Corden Reveals,PERSON
+jamie anderson,1,1,Jamie Anderson,PERSON
+jamie foxx,1,1,Jamie Foxx,PERSON
+janelle monáe thankfully,1,1,Janelle Monáe Thankfully,PERSON
+janet kloppenburg,1,1,Janet Kloppenburg,PERSON
+japan,1,1,Japan,GPE
+jargon,1,1,jargon,ORG
+jason dufner,1,1,Jason Dufner,PERSON
+jason kessler,1,1,Jason Kessler,PERSON
+java,1,1,Java,PERSON
+jaws,1,1,Jaws,PERSON
+jay pharoah,1,1,Jay Pharoah,PERSON
+jay z,1,1,Jay Z,PERSON
+jay-z,1,1,Jay-Z,PERSON
+jean chatzky,1,1,Jean Chatzky,PERSON
+jean chatzky's,1,1,Jean Chatzky's,PERSON
+jean lopez,1,1,Jean Lopez,PERSON
+jeb,1,1,Jeb,PERSON
+jeb bush re-writes,1,1,Jeb Bush Re-Writes,PERSON
+jeb shall reap the souls,1,1,Jeb Shall Reap The Souls,PERSON
+jedis,1,1,Jedis,PERSON
+jeep,1,1,Jeep,ORG
+jeff bezos richest man,1,1,Jeff Bezos Richest Man,PERSON
+jeff dougherty,1,1,Jeff Dougherty,PERSON
+jeff farnham,1,1,Jeff Farnham,PERSON
+jeff keppinger,1,1,Jeff Keppinger,PERSON
+jeff sessions,1,1,Jeff Sessions,PERSON
+jeff sessions opposes bipartisan drug sentencing reform,1,1,Jeff Sessions Opposes Bipartisan Drug Sentencing Reform,PERSON
+jeff sessions prepares,1,1,Jeff Sessions Prepares,PERSON
+jeff williams new coo,1,1,Jeff Williams New COO,PERSON
+jeffrey g. katz,1,1,Jeffrey G. Katz,PERSON
+jeffrey katzenberg,1,1,Jeffrey Katzenberg,PERSON
+jeffrey kopman video,1,1,Jeffrey Kopman Video,PERSON
+jeffrey tambor,1,1,Jeffrey Tambor,PERSON
+jeh johnson,1,1,Jeh Johnson,PERSON
+jeremy evans,1,1,Jeremy Evans,PERSON
+jeremy evans painting dunk,1,1,Jeremy Evans Painting Dunk,ORG
+jeremy lin,1,1,Jeremy Lin,PERSON
+jeremy lin lin's,1,1,Jeremy Lin Lin's,PERSON
+jerks,1,1,Jerks,PERSON
+jerome powell,1,1,Jerome Powell,PERSON
+jerry,1,1,Jerry,PERSON
+jerry seinfeld’s slow,1,1,Jerry Seinfeld’s Slow,PERSON
+jerry stritzke,1,1,Jerry Stritzke,PERSON
+jessica smith,1,1,Jessica Smith,PERSON
+jessica wapner,1,1,Jessica Wapner,PERSON
+jhonny peralta,1,1,Jhonny Peralta,PERSON
+jia shangke's,1,1,Jia Shangke's,PERSON
+jill scott,1,1,Jill Scott,PERSON
+jill soloway,1,1,Jill Soloway,PERSON
+jill stein,1,1,Jill Stein,PERSON
+jim carrey's,1,1,Jim Carrey's,PERSON
+jim jordan,1,1,Jim Jordan,PERSON
+jimmy fallon offers,1,1,Jimmy Fallon Offers,PERSON
+jimmy kimmel,1,1,Jimmy Kimmel,PERSON
+jimmy kimmel's,1,1,Jimmy Kimmel's,PERSON
+jkk research,1,1,JKK Research,ORG
+jlaw,1,1,JLaw,PERSON
+joan rivers,1,1,Joan Rivers,PERSON
+joanna shields,1,1,Joanna Shields,PERSON
+jodie foster,1,1,Jodie Foster,PERSON
+jodie sweetin,1,1,Jodie Sweetin,PERSON
+joe biden might crash,1,1,Joe Biden Might Crash,PERSON
+joe biden mocked,1,1,Joe Biden Mocked,PERSON
+joe corre,1,1,Joe Corre,PERSON
+joel embiid,1,1,Joel Embiid,PERSON
+joel kinnaman,1,1,Joel Kinnaman,PERSON
+john bennett's,1,1,John Bennett's,PERSON
+john boehner,1,1,John Boehner,PERSON
+john boehner backs donald trump,1,1,John Boehner Backs Donald Trump,PERSON
+john green defends cara delevingne,1,1,John Green Defends Cara Delevingne,PERSON
+john harbaugh supports,1,1,John Harbaugh Supports,PERSON
+john kennedy,1,1,John Kennedy,PERSON
+john krasinski wants,1,1,John Krasinski Wants,PERSON
+john legend,1,1,John Legend,PERSON
+john legend talk trump,1,1,John Legend Talk Trump,PERSON
+john oliver nails,1,1,John Oliver Nails,PERSON
+john oliver tries,1,1,John Oliver Tries,PERSON
+johnny depp,1,1,Johnny Depp,PERSON
+johnny depp &,1,1,Johnny Depp &,ORG
+johnny depp reveals,1,1,Johnny Depp Reveals,PERSON
+johnny manziel reportedly,1,1,Johnny Manziel Reportedly,PERSON
+johnny manziel ruptured his ex's,1,1,Johnny Manziel Ruptured His Ex's,PERSON
+jojo,1,1,Jojo,PERSON
+jon kabat-zinn,1,1,Jon Kabat-Zinn,PERSON
+jonathan harris,1,1,Jonathan Harris,PERSON
+jonny evans,1,1,Jonny Evans,PERSON
+jordyn wieber,1,1,Jordyn Wieber,PERSON
+josh groban,1,1,Josh Groban,PERSON
+josh huff,1,1,Josh Huff,PERSON
+joyce,1,1,Joyce,PERSON
+judy,1,1,Judy,PERSON
+judy verses,1,1,Judy Verses,PERSON
+julia louis-dreyfus,1,1,Julia Louis-Dreyfus,GPE
+julia roberts is doing,1,1,Julia Roberts Is Doing,PERSON
+julianne moore shine,1,1,Julianne Moore Shine,PERSON
+julie,1,1,Julie,PERSON
+julie delpy slams,1,1,Julie Delpy Slams,PERSON
+julius randle,1,1,Julius Randle,PERSON
+jumanji,1,1,Jumanji,GPE
+justice,1,1,Justice,ORG
+justin bieber,1,1,Justin Bieber,ORG
+justin bieber misses the mark in,1,1,Justin Bieber Misses The Mark In,ORG
+justin bieber walked offstage mid-concert because,1,1,Justin Bieber Walked Offstage Mid-Concert Because,PERSON
+justin timberlake finally explains,1,1,Justin Timberlake Finally Explains,PERSON
+justin trudeau challenges,1,1,Justin Trudeau Challenges,PERSON
+kaepernick,1,1,Kaepernick,ORG
+kansas,1,1,Kansas,GPE
+kansas city,1,1,Kansas City,GPE
+kansas shooting,1,1,Kansas Shooting,GPE
+kanye,1,1,Kanye,PERSON
+kanye west,1,1,Kanye West,PERSON
+kanye west pretended,1,1,Kanye West Pretended,PERSON
+kanye west reportedly,1,1,Kanye West Reportedly,PERSON
+kanye west's,1,1,Kanye West's,PERSON
+kardashian,1,1,Kardashian,PERSON
+kareem abdul-jabbar slams will smith,1,1,Kareem Abdul-Jabbar Slams Will Smith,PERSON
+karen black,1,1,Karen Black,PERSON
+karski,1,1,Karski,PERSON
+kate mckinnon,1,1,Kate McKinnon,PERSON
+kate middleton,1,1,Kate Middleton,PERSON
+kate middleton once had,1,1,Kate Middleton Once Had,PERSON
+kate winslet,1,1,Kate Winslet,PERSON
+katherine clark,1,1,Katherine Clark,PERSON
+kathryn allen,1,1,Kathryn Allen,PERSON
+katie ledecky puts,1,1,Katie Ledecky Puts,PERSON
+katie nolan challenges greg hardy,1,1,Katie Nolan Challenges Greg Hardy,PERSON
+katy perry,1,1,Katy Perry,PERSON
+kd,1,1,KD,PERSON
+keeping corporate america honest,1,1,Keeping Corporate America Honest,ORG
+kelly shoppach slide fail:,1,1,Kelly Shoppach Slide Fail:,ORG
+ken,1,1,Ken,PERSON
+ken berger,1,1,Ken Berger,PERSON
+ken giles,1,1,Ken Giles,PERSON
+kenan thompson,1,1,Kenan Thompson,PERSON
+kennedy,1,1,Kennedy,PERSON
+kentucky bill,1,1,Kentucky Bill,PERSON
+kentucky derby,1,1,Kentucky Derby,ORG
+kentucky midnight madness,1,1,Kentucky Midnight Madness,ORG
+kentucky teammate,1,1,Kentucky Teammate,PERSON
+keppinger,1,1,Keppinger,ORG
+ketanji brown jackson coverage melts ',1,1,Ketanji Brown Jackson Coverage Melts ',PERSON
+kevin anderson,1,1,Kevin Anderson,PERSON
+kevin durant,1,1,Kevin Durant,PERSON
+kevin durant's,1,1,Kevin Durant's,PERSON
+kevin harlan goes wild,1,1,Kevin Harlan Goes Wild,PERSON
+kevin long,1,1,Kevin Long,PERSON
+kevin mccarthy,1,1,Kevin McCarthy,PERSON
+kevin sumlin's,1,1,Kevin Sumlin's,PERSON
+keyboard cat,1,1,Keyboard Cat,PERSON
+keyboard cat courtesy,1,1,Keyboard Cat Courtesy,PERSON
+kfc,1,1,KFC,ORG
+kicker,1,1,Kicker,ORG
+kim davis,1,1,Kim Davis,PERSON
+kim k is,1,1,Kim K Is,PERSON
+kim kardashian ',1,1,Kim Kardashian ',PERSON
+kim kardashian cradles,1,1,Kim Kardashian Cradles,PERSON
+kim kardashian reportedly,1,1,Kim Kardashian Reportedly,PERSON
+kim kardashian steps,1,1,Kim Kardashian Steps,PERSON
+kim kardashian tries,1,1,Kim Kardashian Tries,PERSON
+kim kardashian wished kanye,1,1,Kim Kardashian Wished Kanye,PERSON
+kim wamble,1,1,Kim Wamble,PERSON
+kimmel,1,1,Kimmel,PERSON
+kirk herbstreit,1,1,Kirk Herbstreit,PERSON
+kirsten dunst,1,1,Kirsten Dunst,PERSON
+kirsten gillibrand,1,1,Kirsten Gillibrand,PERSON
+kitchen nightmares,1,1,Kitchen Nightmares,PERSON
+kittens,1,1,Kittens,PERSON
+knicks,1,1,Knicks,ORG
+knowingly report,1,1,Knowingly Report,PERSON
+knowshon moreno,1,1,Knowshon Moreno,PERSON
+kobe bryant has every,1,1,Kobe Bryant Has Every,PERSON
+koch,1,1,Koch,PERSON
+kohn,1,1,Kohn,PERSON
+kristin armstrong,1,1,Kristin Armstrong,PERSON
+kritzman,1,1,Kritzman,ORG
+krugman,1,1,Krugman,ORG
+kumail nanjiani tells,1,1,Kumail Nanjiani Tells,PERSON
+kurzweil,1,1,Kurzweil,ORG
+ky.,1,1,Ky.,GPE
+kyle farmer,1,1,Kyle Farmer,PERSON
+kylie jenner,1,1,Kylie Jenner,PERSON
+kymora johnson,1,1,Kymora Johnson,PERSON
+lab-grown vaginal organs successfully implanted into 4 teens,1,1,Lab-Grown Vaginal Organs Successfully Implanted Into 4 Teens,ORG
+labor,1,1,Labor,ORG
+lacey chabert,1,1,Lacey Chabert,PERSON
+lady gaga,1,1,Lady Gaga,PERSON
+lady gaga fights back,1,1,Lady Gaga Fights Back,PERSON
+lady gaga's,1,1,Lady Gaga's,PERSON
+lady story',1,1,Lady Story',PERSON
+lagarde,1,1,Lagarde,GPE
+lamar odom,1,1,Lamar Odom,PERSON
+lamar odom did cocaine,1,1,Lamar Odom Did Cocaine,PERSON
+lamar odom reportedly,1,1,Lamar Odom Reportedly,PERSON
+lamar odom spent,1,1,Lamar Odom Spent,PERSON
+lamar odom was,1,1,Lamar Odom Was,PERSON
+lance armstrong,1,1,Lance Armstrong,PERSON
+larry nassar,1,1,Larry Nassar,PERSON
+larry nassar's,1,1,Larry Nassar's,PERSON
+las vegas,1,1,Las Vegas,GPE
+las vegas teen,1,1,Las Vegas Teen,GPE
+laura,1,1,Laura,PERSON
+laura dern identify,1,1,Laura Dern Identify,PERSON
+laura mcmullen,1,1,Laura McMullen,PERSON
+lauren duca,1,1,Lauren Duca,PERSON
+laurie hernandez,1,1,Laurie Hernandez,PERSON
+lawrence lessig withdraws ',1,1,Lawrence Lessig Withdraws ',PERSON
+lawyer dallas police,1,1,Lawyer Dallas Police,ORG
+layup,1,1,Layup,PERSON
+layup among fails,1,1,Layup Among Fails,ORG
+lea michele,1,1,Lea Michele,PERSON
+leap motion,1,1,Leap Motion,ORG
+lebron,1,1,LeBron,PERSON
+lebron commemorates kobe's,1,1,LeBron Commemorates Kobe's,PERSON
+lebron james scores,1,1,LeBron James Scores,PERSON
+lee daniels ',1,1,Lee Daniels ',PERSON
+lee zeldin,1,1,Lee Zeldin,PERSON
+leeann barrett,1,1,Leeann Barrett,PERSON
+legal fees,1,1,Legal Fees,ORG
+legendary sports writer,1,1,Legendary Sports Writer,ORG
+leipzig,1,1,Leipzig,GPE
+leon wound,1,1,Leon Wound,PERSON
+leonardo dicaprio,1,1,Leonardo DiCaprio,PERSON
+leslie jones,1,1,Leslie Jones,PERSON
+leslie woz' dell,1,1,Leslie Woz' Dell,PERSON
+lesson,1,1,Lesson,PERSON
+liam collins,1,1,Liam Collins,PERSON
+liam payne,1,1,Liam Payne,ORG
+liar loans have in common (be,1,1,Liar Loans Have in Common (Be,PERSON
+lick post office crisis with,1,1,Lick Post Office Crisis With,ORG
+life-changing words,1,1,Life-Changing Words,ORG
+lifeclass,1,1,Lifeclass,PERSON
+lifts order barring,1,1,Lifts Order Barring,PERSON
+lin,1,1,Lin,PERSON
+lincoln chafee drops out,1,1,Lincoln Chafee Drops Out,ORG
+lindsey graham,1,1,Lindsey Graham,PERSON
+lindsey vonn,1,1,Lindsey Vonn,PERSON
+lindsey vonn tweets fierce war cry,1,1,Lindsey Vonn Tweets Fierce War Cry,PERSON
+linkedin,1,1,LinkedIn,GPE
+linton,1,1,Linton,PERSON
+liv golf,1,1,LIV Golf,GPE
+liverpool,1,1,Liverpool,GPE
+lois lane finally,1,1,Lois Lane Finally,PERSON
+lojong practice outside of meditation,1,1,Lojong Practice Outside of Meditation,ORG
+lol,1,1,LOL,ORG
+loopholes john buckley,1,1,Loopholes John Buckley,PERSON
+lori,1,1,Lori,PERSON
+los angeles lakers,1,1,Los Angeles Lakers,ORG
+los angeles',1,1,Los Angeles',GPE
+loser,1,1,Loser,PERSON
+louis c.k.,1,1,Louis C.K.,PERSON
+louise linton,1,1,Louise Linton,PERSON
+louisville cardinals,1,1,Louisville Cardinals,ORG
+love ranch south,1,1,Love Ranch South,ORG
+lsu,1,1,LSU,ORG
+lucas henderson,1,1,Lucas Henderson,ORG
+lucy,1,1,Lucy,PERSON
+luebke baker,1,1,Luebke Baker,ORG
+luebke baker & associates,1,1,Luebke Baker & Associates,ORG
+luke bryan top list,1,1,Luke Bryan Top List,PERSON
+luke evans,1,1,Luke Evans,PERSON
+luxury phone unit,1,1,Luxury Phone Unit,ORG
+m.i.t.,1,1,M.I.T.,GPE
+macbooks,1,1,MacBooks,ORG
+mad max,1,1,Mad Max,PERSON
+mad men,1,1,Mad Men,ORG
+madagascar,1,1,Madagascar,GPE
+madeleine peyroux,1,1,Madeleine Peyroux,PERSON
+magic johnson,1,1,Magic Johnson,PERSON
+magic johnson’s,1,1,Magic Johnson’s,ORG
+magic mike',1,1,Magic Mike',PERSON
+magical time-lapse,1,1,Magical Time-Lapse,ORG
+magician david copperfield,1,1,Magician David Copperfield,PERSON
+mailbox app gets,1,1,Mailbox App Gets,PERSON
+major 'star wars',1,1,Major 'Star Wars',ORG
+major league baseball cubs,1,1,Major League Baseball Cubs,ORG
+malaysia,1,1,Malaysia,GPE
+malcolm jenkins,1,1,Malcolm Jenkins,PERSON
+mamma mia,1,1,Mamma Mia,PERSON
+man v. food,1,1,Man v. Food,ORG
+manatt health solutions,1,1,Manatt Health Solutions,ORG
+manchester attack ',1,1,Manchester Attack ',PERSON
+manchester united 1-0,1,1,Manchester United 1-0,PERSON
+manhattan,1,1,Manhattan,GPE
+manny,1,1,Manny,PERSON
+manny pacquiao's,1,1,Manny Pacquiao's,PERSON
+manti,1,1,Manti,ORG
+manziel,1,1,Manziel,ORG
+manziel 22nd,1,1,Manziel 22nd,ORG
+manziel investigation going to grand,1,1,Manziel Investigation Going To Grand,ORG
+manziel’s,1,1,Manziel’s,ORG
+marc andreessen's,1,1,Marc Andreessen's,PERSON
+marco rubio,1,1,Marco Rubio,PERSON
+marco rubio touts father's,1,1,Marco Rubio Touts Father's,PERSON
+marcos arenas,1,1,Marcos Arenas,PERSON
+marcus mariota,1,1,Marcus Mariota,ORG
+marcus smart,1,1,Marcus Smart,PERSON
+mardi gras,1,1,Mardi Gras,PERSON
+maria sharapova,1,1,Maria Sharapova,PERSON
+marie curie,1,1,Marie Curie,PERSON
+marijuana,1,1,Marijuana,PERSON
+marijuana enforcement letter,1,1,Marijuana Enforcement Letter,ORG
+marissa mayer mayer,1,1,Marissa Mayer Mayer,PERSON
+mark hamill,1,1,Mark Hamill,PERSON
+mark hoekstra,1,1,Mark Hoekstra,PERSON
+martiak,1,1,Martiak,ORG
+martin howell,1,1,Martin Howell,PERSON
+martin luther king’s,1,1,Martin Luther King’s,PERSON
+martin o'malley,1,1,Martin O'Malley,PERSON
+martin o'malley rolls,1,1,Martin O'Malley Rolls,PERSON
+marty,1,1,Marty,PERSON
+marv albert,1,1,Marv Albert,PERSON
+mascot collapses,1,1,Mascot Collapses,PERSON
+match.com,1,1,Match.com,ORG
+matt,1,1,Matt,PERSON
+matt damon,1,1,Matt Damon,PERSON
+matt damon tells,1,1,Matt Damon Tells,PERSON
+matt ryan's,1,1,Matt Ryan's,PERSON
+matthew perry,1,1,Matthew Perry,PERSON
+matthew woods,1,1,Matthew Woods,PERSON
+may be sold off: report,1,1,May Be Sold Off: Report,PERSON
+may be worth,1,1,May Be Worth,PERSON
+mayweather,1,1,Mayweather,PERSON
+maze runner,1,1,Maze Runner,PERSON
+mccain,1,1,McCain,PERSON
+mccartney,1,1,McCartney,PERSON
+mcdonalds breakfast burrito,1,1,McDonalds Breakfast Burrito,ORG
+mcelvoy,1,1,McElvoy,PERSON
+medicaid,1,1,Medicaid,ORG
+mega millions,1,1,Mega Millions,PERSON
+meh,1,1,Meh,PERSON
+melissa mccarthy,1,1,Melissa McCarthy,PERSON
+memoir,1,1,Memoir,ORG
+memphis mother,1,1,Memphis Mother,ORG
+men fail,1,1,Men Fail,ORG
+men's health,1,1,Men's Health,ORG
+menshealth.com,1,1,MensHealth.com,ORG
+mental health care for veterans often fragmented prompt,1,1,Mental Health Care For Veterans Often Fragmented Prompt,ORG
+merle butler,1,1,Merle Butler,PERSON
+mesa airlines,1,1,Mesa Airlines,ORG
+metropolis,1,1,Metropolis,PERSON
+mets,1,1,Mets,ORG
+mia farrow,1,1,Mia Farrow,PERSON
+miami dolphins reach agreement on suspension,1,1,Miami Dolphins Reach Agreement On Suspension,ORG
+michael b jordan,1,1,Michael B Jordan,PERSON
+michael bennett,1,1,Michael Bennett,PERSON
+michael brown,1,1,Michael Brown,PERSON
+michael cera,1,1,Michael Cera,PERSON
+michael che's,1,1,Michael Che's,PERSON
+michael cohen,1,1,Michael Cohen,PERSON
+michael comeau,1,1,Michael Comeau,PERSON
+michael kelly,1,1,Michael Kelly,PERSON
+michael phelps lochte’s,1,1,Michael Phelps Lochte’s,PERSON
+michael phelps',1,1,Michael Phelps',PERSON
+michael scofield,1,1,Michael Scofield,PERSON
+michelle mcnamara,1,1,Michelle McNamara,PERSON
+michigan state university,1,1,Michigan State University,ORG
+mickey rooney,1,1,Mickey Rooney,PERSON
+microsoft agrees,1,1,Microsoft Agrees,ORG
+mid-‘90s,1,1,mid-‘90s,ORG
+mikaela shiffrin barely,1,1,Mikaela Shiffrin Barely,ORG
+mike brown,1,1,Mike Brown,PERSON
+mike hurst,1,1,Mike Hurst,PERSON
+mike piazza,1,1,Mike Piazza,PERSON
+miles,1,1,Miles,PERSON
+miles davis,1,1,Miles Davis,PERSON
+miley cyrus selling family home,1,1,Miley Cyrus Selling Family Home,PERSON
+millie bobby brown drops,1,1,Millie Bobby Brown Drops,PERSON
+milliman,1,1,Milliman,ORG
+millions,1,1,Millions,ORG
+mind,1,1,Mind,PERSON
+mindset,1,1,Mindset,GPE
+mini-me in matching swimsuit,1,1,Mini-Me In Matching Swimsuit,ORG
+minnesota,1,1,Minnesota,GPE
+miranda lambert lead,1,1,Miranda Lambert Lead,PERSON
+miranda lambert shares,1,1,Miranda Lambert Shares,PERSON
+mirror,1,1,Mirror,ORG
+misconduct four,1,1,Misconduct Four,ORG
+misogyny,1,1,Misogyny,ORG
+mississippi state pulls,1,1,Mississippi State Pulls,ORG
+missouri,1,1,Missouri,GPE
+mit,1,1,MIT,ORG
+mitch hedberg,1,1,Mitch Hedberg,PERSON
+mitt romney's,1,1,Mitt Romney's,PERSON
+mlb pitcher punches himself in face really hard after blowing game astros,1,1,MLB Pitcher Punches Himself In Face Really Hard After Blowing Game Astros,ORG
+mls,1,1,MLS,ORG
+mocked democratic national committee hacking as a 'harmless joke',1,1,Mocked Democratic National Committee Hacking As A 'Harmless Joke',ORG
+mod club,1,1,Mod Club,ORG
+model s.,1,1,Model S.,PERSON
+molecule in epidermis,1,1,Molecule In Epidermis,ORG
+mom put a hex,1,1,Mom Put A Hex,ORG
+money rules,1,1,Money Rules,ORG
+"money, marriage and lies",1,1,"Money, Marriage and Lies",ORG
+montana,1,1,Montana,GPE
+montrezl harrell,1,1,Montrezl Harrell,PERSON
+moore,1,1,Moore,PERSON
+moore accuser,1,1,Moore Accuser,PERSON
+morgan stanley's,1,1,Morgan Stanley's,ORG
+most misguided regulation,1,1,Most Misguided Regulation,ORG
+most state polls missed,1,1,Most State Polls Missed,ORG
+mr,1,1,MR,GPE
+muhammad ali's,1,1,Muhammad Ali's,PERSON
+muhammad ali’s,1,1,Muhammad Ali’s,PERSON
+muirfield,1,1,Muirfield,PERSON
+multi,1,1,Multi,GPE
+multinational corporations still driving tax policy,1,1,Multinational Corporations Still Driving Tax Policy,ORG
+munich,1,1,Munich,GPE
+murkowski receive,1,1,Murkowski Receive,PERSON
+murphy,1,1,Murphy,PERSON
+music greats mourn,1,1,Music Greats Mourn,ORG
+my homey' shirts to family day,1,1,My Homey' Shirts To Family Day,PERSON
+my supporters who 'take a hard look',1,1,My Supporters Who 'Take A Hard Look',PERSON
+n.h.,1,1,N.H.,GPE
+nadia,1,1,Nadia,GPE
+nancy pelosi re-elected,1,1,Nancy Pelosi Re-Elected,PERSON
+nancy pelosi struggles,1,1,Nancy Pelosi Struggles,PERSON
+narcicyst,1,1,Narcicyst,ORG
+nate moore,1,1,Nate Moore,PERSON
+nathan scheelhaase high-five denied,1,1,Nathan Scheelhaase High-Five Denied,PERSON
+nation's largest seniors group is using conservative scare tactics on social security,1,1,Nation's Largest Seniors Group Is Using Conservative Scare Tactics On Social Security,ORG
+national football post with,1,1,National Football Post With,ORG
+national league,1,1,National League,ORG
+national security agency,1,1,National Security Agency,ORG
+national women's hockey league player comes out,1,1,National Women's Hockey League Player Comes Out,ORG
+naughty lego elf leaks santa's,1,1,Naughty Lego Elf Leaks Santa's,ORG
+nay,1,1,Nay,PERSON
+nba postpones 5 more games in response to rising covid cases,1,1,NBA Postpones 5 More Games In Response To Rising COVID Cases,ORG
+ncaa,1,1,NCAA,ORG
+ncaa ban,1,1,NCAA Ban,PERSON
+nebraska,1,1,Nebraska,GPE
+nebraska cornhusker,1,1,Nebraska Cornhusker,ORG
+nerlens,1,1,Nerlens,GPE
+netflix make a,1,1,Netflix Make A,PERSON
+netflix outage,1,1,Netflix Outage,PERSON
+netflix spoiled its chance,1,1,Netflix Spoiled Its Chance,PERSON
+netflix’s ‘chilling adventures of sabrina,1,1,Netflix’s ‘Chilling Adventures of Sabrina,ORG
+netherlands,1,1,Netherlands,GPE
+neuron,1,1,Neuron,ORG
+new data privacy terms,1,1,New Data Privacy Terms,ORG
+new england patriots,1,1,New England Patriots,ORG
+new federal government app solves,1,1,New Federal Government App Solves,ORG
+new jersey,1,1,New Jersey,GPE
+new movie,1,1,New Movie,GPE
+new orleans,1,1,New Orleans,GPE
+new orleans',1,1,New Orleans',GPE
+new painful sex drug is approved,1,1,New Painful Sex Drug Is Approved,ORG
+new review outlines management strategies for sleep disorder,1,1,New Review Outlines Management Strategies For Sleep Disorder,ORG
+new tax law benefiting shareholders,1,1,New Tax Law Benefiting Shareholders,ORG
+new update could bring you into the echo chamber,1,1,New Update Could Bring You Into The Echo Chamber,ORG
+new virtual reality camera,1,1,New Virtual Reality Camera,ORG
+new york chicago,1,1,New York Chicago,GPE
+new york giants,1,1,New York Giants,ORG
+new york mets beat,1,1,New York Mets Beat,ORG
+new york post sportswriter,1,1,New York Post Sportswriter,ORG
+new york resident,1,1,New York Resident,GPE
+new york votes sanders,1,1,New York Votes Sanders,ORG
+newark,1,1,Newark,GPE
+newt gingrich,1,1,Newt Gingrich,PERSON
+neymar,1,1,Neymar,PERSON
+nfl alum describes ',1,1,NFL Alum Describes ',PERSON
+nfl draft,1,1,NFL Draft,PERSON
+nfl draft preparation,1,1,NFL Draft Preparation,ORG
+nfl wants everyone to stand,1,1,NFL Wants Everyone To Stand,PERSON
+nick jonas has,1,1,Nick Jonas Has,PERSON
+nick saban,1,1,Nick Saban,PERSON
+nicolas almagro,1,1,Nicolas Almagro,PERSON
+nicole kidman,1,1,Nicole Kidman,PERSON
+nieto,1,1,Nieto,GPE
+nigeria,1,1,Nigeria,GPE
+nikhil arora,1,1,Nikhil Arora,PERSON
+nikki haley continues hallowed tradition of the arrogant,1,1,Nikki Haley Continues Hallowed Tradition Of The Arrogant,ORG
+nirvana,1,1,Nirvana,GPE
+nl,1,1,NL,ORG
+nlcs,1,1,NLCS,GPE
+no one tells us,1,1,No One Tells Us,ORG
+noah,1,1,Noah,PERSON
+nofap,1,1,NoFap,PERSON
+nokia lumia,1,1,Nokia Lumia,PERSON
+nonprofits cancel events,1,1,Nonprofits Cancel Events,PERSON
+nora ephron,1,1,Nora Ephron,PERSON
+north carolina's,1,1,North Carolina's,GPE
+novak djokovic loses,1,1,Novak Djokovic Loses,ORG
+nsa,1,1,NSA,ORG
+nsfw,1,1,NSFW,ORG
+ntsb,1,1,NTSB,ORG
+nuggets,1,1,Nuggets,ORG
+nullifies horse,1,1,Nullifies Horse,PERSON
+ny,1,1,NY,ORG
+ny tech scene - rising:,1,1,NY Tech Scene - Rising:,ORG
+ny yankees,1,1,NY Yankees,ORG
+nyc resident doctors,1,1,NYC Resident Doctors,ORG
+nyc tech scene rising let's,1,1,NYC Tech Scene Rising Let's,ORG
+nypd,1,1,NYPD,ORG
+nytm,1,1,NYTM,ORG
+n’t,1,1,n’t,GPE
+o'neal,1,1,O'Neal,PERSON
+o'reilly seeks trump's approval in 'anchor babies',1,1,O'Reilly Seeks Trump's Approval In 'Anchor Babies',ORG
+oakland athletics,1,1,Oakland Athletics,ORG
+obama administration releases new rules for methane emissions,1,1,Obama Administration Releases New Rules For Methane Emissions,ORG
+obama confronts corporate tax reform,1,1,Obama Confronts Corporate Tax Reform,ORG
+obama dances,1,1,Obama Dances,PERSON
+obama lauds,1,1,Obama Lauds,ORG
+obama stumbles as,1,1,Obama Stumbles As,PERSON
+obama to try selling police chiefs,1,1,Obama To Try Selling Police Chiefs,PERSON
+obama vague,1,1,Obama Vague,PERSON
+obama white house,1,1,Obama White House,ORG
+obama's,1,1,Obama's,ORG
+obamacare,1,1,Obamacare,ORG
+ocean,1,1,Ocean,ORG
+ohio,1,1,Ohio,GPE
+ohio state,1,1,Ohio State,ORG
+ohsaa,1,1,OHSAA,ORG
+oklahoma,1,1,Oklahoma,GPE
+oklahoma city,1,1,Oklahoma City,GPE
+oklahoma sooners,1,1,Oklahoma Sooners,GPE
+oktoberfest,1,1,Oktoberfest,ORG
+olympic committee tells athletes,1,1,Olympic Committee Tells Athletes,ORG
+ontario,1,1,Ontario,GPE
+oppenheimer,1,1,Oppenheimer,ORG
+opposing u.s. government's,1,1,Opposing U.S. Government's,ORG
+oprah,1,1,Oprah,PERSON
+oracle,1,1,Oracle,ORG
+ore.,1,1,Ore.,GPE
+oregon fake punt,1,1,Oregon Fake Punt,ORG
+oregon pushes back against jeff sessions',1,1,Oregon Pushes Back Against Jeff Sessions',ORG
+organizer of charlottesville white supremacist,1,1,Organizer Of Charlottesville White Supremacist,ORG
+orioles player scores,1,1,Orioles Player Scores,ORG
+orlando bloom,1,1,Orlando Bloom,ORG
+orlando bloom's ',1,1,Orlando Bloom's ',ORG
+orwellian mayhem,1,1,Orwellian Mayhem,PERSON
+oscar documentaries,1,1,Oscar Documentaries,ORG
+oscar nominee,1,1,Oscar Nominee,PERSON
+oscars,1,1,Oscars,ORG
+osphena,1,1,Osphena,GPE
+outside the lines,1,1,Outside the Lines,ORG
+overdose mcallister,1,1,Overdose McAllister,PERSON
+oxford,1,1,Oxford,ORG
+pac,1,1,PAC,ORG
+pakistan,1,1,Pakistan,GPE
+palestine,1,1,Palestine,GPE
+panel seeks personal data,1,1,Panel Seeks Personal Data,ORG
+parent,1,1,Parent,GPE
+parents erupt,1,1,Parents Erupt,PERSON
+park,1,1,Park,PERSON
+parton,1,1,Parton,GPE
+parvez,1,1,Parvez,GPE
+patch.com,1,1,Patch.com,ORG
+patrick stewart,1,1,Patrick Stewart,PERSON
+patriot donut,1,1,Patriot Donut,PERSON
+patriots,1,1,Patriots,ORG
+patton oswalt found a note,1,1,Patton Oswalt Found A Note,ORG
+patton oswalt wishes,1,1,Patton Oswalt Wishes,ORG
+patty jenkins,1,1,Patty Jenkins,PERSON
+paul duncan,1,1,Paul Duncan,PERSON
+paul mccartney,1,1,Paul McCartney,PERSON
+paula deen,1,1,Paula Deen,PERSON
+paying athletes faces,1,1,Paying Athletes Faces,ORG
+ped inconsistency,1,1,PED Inconsistency,ORG
+pedro hernandez,1,1,Pedro Hernandez,PERSON
+peggy mcelvoy,1,1,Peggy McElvoy,PERSON
+pelé,1,1,Pelé,PERSON
+pence,1,1,Pence,ORG
+penn state police had,1,1,Penn State Police Had,ORG
+per-ounce production price,1,1,Per-Ounce Production Price,ORG
+periscope,1,1,Periscope,PERSON
+permira,1,1,Permira,ORG
+peru,1,1,Peru,GPE
+pete kostelnick,1,1,Pete Kostelnick,PERSON
+peter frew,1,1,Peter Frew,PERSON
+peter thiel,1,1,Peter Thiel,PERSON
+peterson,1,1,Peterson,PERSON
+peyton manning benched,1,1,Peyton Manning Benched,PERSON
+phil jackson,1,1,Phil Jackson,PERSON
+phil knight's,1,1,Phil Knight's,PERSON
+phil mickelson,1,1,Phil Mickelson,PERSON
+philippines,1,1,Philippines,GPE
+phoenix,1,1,Phoenix,GPE
+phony financial experts keep popping,1,1,Phony Financial Experts Keep Popping,ORG
+picard,1,1,Picard,PERSON
+pie-loving mom,1,1,Pie-Loving Mom,ORG
+pinterest,1,1,Pinterest,ORG
+pittsburgh,1,1,Pittsburgh,GPE
+plane to lead passengers,1,1,Plane To Lead Passengers,ORG
+planned parenthood shooter had a history of violence against women before,1,1,Planned Parenthood Shooter Had A History Of Violence Against Women Before,ORG
+playoff game,1,1,Playoff Game,PERSON
+poland,1,1,Poland,GPE
+popovich,1,1,Popovich,PERSON
+port authority sergeant,1,1,Port Authority Sergeant,ORG
+portugal,1,1,Portugal,GPE
+post-market drug trials need a higher dose of ethics,1,1,Post-Market Drug Trials Need a Higher Dose of Ethics,ORG
+postseason three,1,1,Postseason Three,PERSON
+powell will aim,1,1,Powell Will Aim,PERSON
+powerpoint,1,1,PowerPoint,ORG
+practice forgiveness,1,1,Practice Forgiveness,ORG
+prince william addressed,1,1,Prince William Addressed,PERSON
+pro baseball team in,1,1,Pro Baseball Team In,ORG
+pro football weekly putting,1,1,Pro Football Weekly Putting,ORG
+pro-trump,1,1,pro-Trump,PERSON
+problem you,1,1,Problem You,PERSON
+producer,1,1,Producer,PERSON
+project power,1,1,Project Power,ORG
+project sand hill,1,1,Project Sand Hill,ORG
+proof that apple watch owners are desperate,1,1,Proof That Apple Watch Owners Are Desperate,ORG
+prostate,1,1,Prostate,ORG
+prudence crowther,1,1,Prudence Crowther,PERSON
+puerto rico,1,1,Puerto Rico,GPE
+pussycat dolls founder denies claims of abuse,1,1,Pussycat Dolls Founder Denies Claims Of Abuse,ORG
+putin might,1,1,Putin Might,PERSON
+pyeongchang,1,1,Pyeongchang,GPE
+quality never,1,1,Quality Never,ORG
+quarantined sportscaster's,1,1,Quarantined Sportscaster's,PERSON
+quddus philippe,1,1,Quddus Philippe,PERSON
+quebec,1,1,Quebec,GPE
+queen cersei reading insults,1,1,Queen Cersei Reading Insults,PERSON
+queens,1,1,Queens,ORG
+quits to join group,1,1,Quits To Join Group,ORG
+rabia,1,1,Rabia,GPE
+rabia chaudry,1,1,Rabia Chaudry,ORG
+rachel martin,1,1,Rachel Martin,PERSON
+radek stepanek defeats,1,1,Radek Stepanek Defeats,ORG
+rajon rondo is quietly back to being rajon rondo,1,1,Rajon Rondo Is Quietly Back To Being Rajon Rondo,ORG
+raloxifene,1,1,Raloxifene,PERSON
+rasputin,1,1,Rasputin,PERSON
+ray lewis,1,1,Ray Lewis,PERSON
+re-election master plan,1,1,Re-Election Master Plan,ORG
+red carpet event,1,1,Red Carpet Event,ORG
+red carpet suki waterhouse,1,1,Red Carpet Suki Waterhouse,ORG
+reddit,1,1,Reddit,GPE
+reddit bans prominent alt-right community,1,1,Reddit Bans Prominent Alt-Right Community,ORG
+reddit co-founder dead,1,1,Reddit Co-Founder Dead,ORG
+reed smith,1,1,Reed Smith,PERSON
+refs calling questionable fouls,1,1,Refs Calling Questionable Fouls,ORG
+rei,1,1,REI,ORG
+reich,1,1,Reich,PERSON
+reince priebus,1,1,Reince Priebus,PERSON
+remarks donald trump,1,1,Remarks Donald Trump,PERSON
+"remembering equifax, uber",1,1,"Remembering Equifax, Uber",PERSON
+rendition,1,1,Rendition,ORG
+republican warns 'burrowing',1,1,Republican Warns 'Burrowing',ORG
+request to unlock iphone in drug case,1,1,Request To Unlock iPhone In Drug Case,ORG
+reversal,1,1,Reversal,PERSON
+revival trailer,1,1,Revival Trailer,PERSON
+reymond amsalem,1,1,Reymond Amsalem,PERSON
+rhoda alexander,1,1,Rhoda Alexander,PERSON
+ricardo lockette needs neck surgery,1,1,Ricardo Lockette Needs Neck Surgery,ORG
+rice,1,1,Rice,PERSON
+rich incognito,1,1,Rich Incognito,PERSON
+rich people,1,1,Rich People,PERSON
+richard clarke,1,1,Richard Clarke,PERSON
+richard m. berman,1,1,Richard M. Berman,PERSON
+richard nixon,1,1,Richard Nixon,PERSON
+richard roeper,1,1,Richard Roeper,PERSON
+richie incognito,1,1,Richie Incognito,PERSON
+rick perry no longer wants,1,1,Rick Perry No Longer Wants,PERSON
+ricky riddle,1,1,Ricky Riddle,PERSON
+rieva lesonsky,1,1,Rieva Lesonsky,PERSON
+rim,1,1,RIM,ORG
+rio olympics diving pool mysteriously changes from blue to green officials,1,1,Rio Olympics Diving Pool Mysteriously Changes From Blue To Green Officials,ORG
+rip nyan cat,1,1,RIP Nyan Cat,PERSON
+rise,1,1,Rise,ORG
+risperdal,1,1,Risperdal,ORG
+rnc pr bs,1,1,RNC PR BS,ORG
+rob,1,1,Rob,PERSON
+rob & chyna',1,1,Rob & Chyna',ORG
+rob delaney,1,1,Rob Delaney,PERSON
+rob gronkowski's,1,1,Rob Gronkowski's,PERSON
+rob white,1,1,Rob White,PERSON
+rob white's,1,1,Rob White's,PERSON
+robbins,1,1,Robbins,PERSON
+robert,1,1,Robert,PERSON
+robert carlock,1,1,Robert Carlock,PERSON
+robert de niro,1,1,Robert De Niro,PERSON
+robert lewis dear,1,1,Robert Lewis Dear,PERSON
+robert mueller,1,1,Robert Mueller,PERSON
+roberta mancino,1,1,Roberta Mancino,PERSON
+robin antin,1,1,Robin Antin,PERSON
+robin williams,1,1,Robin Williams,PERSON
+robocop,1,1,RoboCop,ORG
+rock,1,1,Rock,PERSON
+rock ‘n’ roll,1,1,Rock ‘n’ Roll,ORG
+rock-paper-scissors touchdown celebration,1,1,Rock-Paper-Scissors Touchdown Celebration,ORG
+rockefeller university,1,1,Rockefeller University,ORG
+rockin' eve',1,1,Rockin' Eve',ORG
+rocky,1,1,Rocky,GPE
+roddy white lost,1,1,Roddy White Lost,ORG
+rodgers,1,1,Rodgers,PERSON
+roger ebert,1,1,Roger Ebert,PERSON
+roger ebert remembered,1,1,Roger Ebert Remembered,PERSON
+roger federer,1,1,Roger Federer,PERSON
+roger goodell ',1,1,Roger Goodell ',PERSON
+roger goodell pens letter,1,1,Roger Goodell Pens Letter,PERSON
+ronaldo,1,1,Ronaldo,PERSON
+ronda rousey's,1,1,Ronda Rousey's,PERSON
+ronnie,1,1,Ronnie,PERSON
+roof despite,1,1,Roof Despite,PERSON
+rookie wins,1,1,Rookie Wins,PERSON
+rooney mara,1,1,Rooney Mara,PERSON
+roots,1,1,Roots,ORG
+rosa maria hernandez,1,1,Rosa Maria Hernandez,PERSON
+rosario,1,1,Rosario,PERSON
+rose amy,1,1,Rose Amy,PERSON
+rosetta stone,1,1,Rosetta Stone,PERSON
+rosetta stone's,1,1,Rosetta Stone's,ORG
+rose’s,1,1,Rose’s,PERSON
+ross,1,1,Ross,PERSON
+royals,1,1,Royals,ORG
+rpg,1,1,RPG,ORG
+rubio,1,1,Rubio,PERSON
+rudy giuliani,1,1,Rudy Giuliani,PERSON
+rudy giuliani wants,1,1,Rudy Giuliani Wants,PERSON
+rupert grint,1,1,Rupert Grint,PERSON
+russell athletic,1,1,Russell Athletic,PERSON
+russell westbrook,1,1,Russell Westbrook,PERSON
+russell wilson,1,1,Russell Wilson,PERSON
+russia probe,1,1,Russia Probe,ORG
+rutgers,1,1,Rutgers,ORG
+ryan,1,1,Ryan,PERSON
+ryan fitzpatrick,1,1,Ryan Fitzpatrick,PERSON
+ryan murphy's,1,1,Ryan Murphy's,PERSON
+ryan norton,1,1,Ryan Norton,PERSON
+ryan reynolds confirms birth of baby with blake lively,1,1,Ryan Reynolds Confirms Birth Of Baby With Blake Lively,PERSON
+ryan seacrest’s ',1,1,Ryan Seacrest’s ',PERSON
+sabrina,1,1,Sabrina,PERSON
+sacramento,1,1,Sacramento,GPE
+safari browser is crashing,1,1,Safari Browser Is Crashing,PERSON
+salem,1,1,Salem,GPE
+saliva testing for adrenal evaluation,1,1,Saliva Testing for Adrenal Evaluation,ORG
+sallie mae,1,1,Sallie Mae,ORG
+sally hawkins,1,1,Sally Hawkins,PERSON
+sally smith,1,1,Sally Smith,PERSON
+sally yates,1,1,Sally Yates,PERSON
+samantha bee gets,1,1,Samantha Bee Gets,PERSON
+samsung,1,1,Samsung,ORG
+samsung electric lcd business to be spun off with,1,1,Samsung Electric LCD Business To Be Spun Off With,ORG
+san bernardino terrorist's,1,1,San Bernardino Terrorist's,ORG
+san fransisco reality tv debate,1,1,San Fransisco Reality TV Debate,ORG
+san joaquin valley,1,1,San Joaquin Valley,GPE
+sandbox the,1,1,Sandbox The,ORG
+sanders hits clinton,1,1,Sanders Hits Clinton,PERSON
+sandler,1,1,Sandler,ORG
+sandoval lead,1,1,Sandoval Lead,PERSON
+sara bareilles,1,1,Sara Bareilles,PERSON
+sarah koenig,1,1,Sarah Koenig,PERSON
+sarah paulson,1,1,Sarah Paulson,PERSON
+sarah silverman walks back tweet urging military coup,1,1,Sarah Silverman Walks Back Tweet Urging Military Coup,PERSON
+sba,1,1,SBA,ORG
+schear,1,1,Schear,GPE
+schizophrenia,1,1,Schizophrenia,ORG
+schu,1,1,Schu,GPE
+scott baughman,1,1,Scott Baughman,PERSON
+scott pruitt,1,1,Scott Pruitt,PERSON
+scott sauritch,1,1,Scott Sauritch,PERSON
+scott walker,1,1,Scott Walker,PERSON
+scottsdale,1,1,Scottsdale,GPE
+scranton-wilkes barre railriders,1,1,Scranton-Wilkes Barre RailRiders,ORG
+screen actors guild membership,1,1,Screen Actors Guild Membership,ORG
+sean carmeli,1,1,Sean Carmeli,PERSON
+sean miller,1,1,Sean Miller,PERSON
+sean spicer,1,1,Sean Spicer,PERSON
+sears,1,1,Sears,ORG
+season 8,1,1,Season 8,PERSON
+seattle seahawks,1,1,Seattle Seahawks,PERSON
+seattle seahawks cornerback,1,1,Seattle Seahawks Cornerback,ORG
+seem interested,1,1,Seem Interested,PERSON
+seinfeld,1,1,Seinfeld,PERSON
+selena gomez,1,1,Selena Gomez,PERSON
+selena gomez stuns,1,1,Selena Gomez Stuns,PERSON
+selfie-finance,1,1,Selfie-Finance,ORG
+senate committee,1,1,Senate Committee,ORG
+senate fight,1,1,Senate Fight,ORG
+senate health care bill,1,1,Senate Health Care Bill,ORG
+sepp blatter,1,1,Sepp Blatter,PERSON
+serena williams,1,1,Serena Williams,PERSON
+serena williams dazzles,1,1,Serena Williams Dazzles,PERSON
+serena williams desperately,1,1,Serena Williams Desperately,PERSON
+serena williams',1,1,Serena Williams',PERSON
+sergeant nissim,1,1,Sergeant Nissim,PERSON
+serms,1,1,SERMs,ORG
+seshu kiran,1,1,Seshu Kiran,PERSON
+seth macfarlane comedy tops ',1,1,Seth MacFarlane Comedy Tops ',ORG
+seth meyers,1,1,Seth Meyers,PERSON
+seventeen,1,1,Seventeen,ORG
+sexual assault awareness,1,1,Sexual Assault Awareness,ORG
+sgt,1,1,Sgt,PERSON
+shaq,1,1,Shaq,PERSON
+shaq lip-synching adele,1,1,Shaq Lip-Synching Adele,PERSON
+sharing,1,1,Sharing,PERSON
+sharing website,1,1,Sharing Website,PERSON
+shaun livingston,1,1,Shaun Livingston,PERSON
+shaun white,1,1,Shaun White,PERSON
+sheen,1,1,Sheen,PERSON
+sheila nevins,1,1,Sheila Nevins,PERSON
+sherry turkle,1,1,Sherry Turkle,PERSON
+sheryl sandberg sets,1,1,Sheryl Sandberg Sets,PERSON
+shirley pulawski,1,1,Shirley Pulawski,PERSON
+shonda rhimes,1,1,Shonda Rhimes,PERSON
+shop hers,1,1,Shop Hers,PERSON
+shoppach,1,1,Shoppach,PERSON
+showdown with johnson & johnson's,1,1,Showdown With Johnson & Johnson's,ORG
+shows looks,1,1,Shows Looks,PERSON
+shows moss,1,1,Shows Moss,PERSON
+showtime,1,1,Showtime,ORG
+si,1,1,SI,ORG
+sia sings her elastic heart out,1,1,Sia Sings Her Elastic Heart Out,ORG
+sick leave,1,1,Sick Leave,PERSON
+sienna miller graduate,1,1,Sienna Miller Graduate,PERSON
+silibinin,1,1,Silibinin,GPE
+silicon valley companies fight for talent,1,1,Silicon Valley Companies Fight For Talent,ORG
+simone biles,1,1,Simone Biles,PERSON
+simply barbra,1,1,Simply Barbra,PERSON
+sit less,1,1,Sit Less,ORG
+skepticism financial,1,1,Skepticism Financial,ORG
+skier fabian bosch catches sweet hang time in,1,1,Skier Fabian Bosch Catches Sweet Hang Time In,ORG
+sky katz dishes on 'raven's,1,1,Sky Katz Dishes On 'Raven's,ORG
+slams 'disrespectful' allegations,1,1,Slams 'Disrespectful' Allegations,ORG
+slams epa,1,1,Slams EPA,PERSON
+slim peace dc,1,1,Slim Peace DC,PERSON
+sloan school of business,1,1,Sloan School of Business,ORG
+smart glass,1,1,Smart Glass,PERSON
+smart you need,1,1,Smart You Need,ORG
+snapchat,1,1,Snapchat,PERSON
+snapchat's,1,1,Snapchat's,ORG
+snoop dogg,1,1,Snoop Dogg,PERSON
+snowden,1,1,Snowden,GPE
+soccer fan-turned-soldier,1,1,Soccer Fan-Turned-Soldier,PERSON
+social capital markets works to connect world of impact investing first,1,1,Social Capital Markets Works To Connect World Of Impact Investing First,ORG
+social media find,1,1,Social Media Find,ORG
+social media welcome,1,1,Social Media Welcome,ORG
+social media',1,1,Social Media',ORG
+social security,1,1,Social Security,ORG
+soda consumption,1,1,Soda Consumption,PERSON
+software,1,1,Software,ORG
+solidarity demonstrations,1,1,Solidarity Demonstrations,ORG
+somatic symptoms criteria,1,1,Somatic Symptoms Criteria,ORG
+something critical missing in the fight for a,1,1,Something Critical Missing In The Fight For A,ORG
+sonny gray,1,1,Sonny Gray,PERSON
+sonny gray has,1,1,Sonny Gray Has,PERSON
+sony,1,1,Sony,ORG
+sony technology,1,1,Sony Technology,ORG
+sophie bushwick,1,1,Sophie Bushwick,PERSON
+soso,1,1,Soso,PERSON
+south carolina,1,1,South Carolina,GPE
+south korea,1,1,South Korea,GPE
+spain,1,1,Spain,GPE
+spectre 1,1,1,Spectre 1,PERSON
+spectre one,1,1,Spectre One,PERSON
+sperling's bestplaces,1,1,Sperling's BestPlaces,ORG
+spike tv's,1,1,Spike TV's,ORG
+spirit,1,1,Spirit,ORG
+split,1,1,Split,PERSON
+sports illustrated,1,1,Sports Illustrated,ORG
+spotify to raise,1,1,Spotify To Raise,ORG
+spread their fungus,1,1,Spread Their Fungus,ORG
+sprinklers turn on,1,1,Sprinklers Turn On,ORG
+spurs,1,1,Spurs,PERSON
+squirming,1,1,Squirming,PERSON
+srinivas kuchibhotla,1,1,Srinivas Kuchibhotla,PERSON
+stan van gundy,1,1,Stan Van Gundy,PERSON
+standout,1,1,Standout,PERSON
+stanford university,1,1,Stanford University,ORG
+staples.com,1,1,Staples.com,ORG
+stark,1,1,Stark,PERSON
+stars lead the way,1,1,Stars Lead The Way,PERSON
+state,1,1,State,ORG
+state & fmcsa,1,1,state & FMCSA,ORG
+state department's,1,1,State Department's,ORG
+states' obamacare decisions show entrenched health reform partisanship,1,1,States' Obamacare Decisions Show Entrenched Health Reform Partisanship,ORG
+stay sane,1,1,Stay Sane,PERSON
+stein,1,1,Stein,PERSON
+steph curry,1,1,Steph Curry,PERSON
+steph curry threw 5,1,1,Steph Curry Threw 5,PERSON
+stephen curry are,1,1,Stephen Curry Are,PERSON
+stephen curry's,1,1,Stephen Curry's,PERSON
+stephen miller,1,1,Stephen Miller,PERSON
+steve bannon,1,1,Steve Bannon,PERSON
+steve bullock,1,1,Steve Bullock,PERSON
+steve gleason,1,1,Steve Gleason,PERSON
+steve jobs,1,1,Steve Jobs,PERSON
+steve kerr,1,1,Steve Kerr,PERSON
+steve mnuchin,1,1,Steve Mnuchin,PERSON
+steve mnuchin's,1,1,Steve Mnuchin's,PERSON
+steve penny,1,1,Steve Penny,PERSON
+steve sarkisian clay helton,1,1,Steve Sarkisian Clay Helton,PERSON
+steven brinberg's,1,1,Steven Brinberg's,PERSON
+steven spielberg bashes,1,1,Steven Spielberg Bashes,PERSON
+stoke goalkeeper,1,1,Stoke Goalkeeper,PERSON
+stop china’s stealth invasion,1,1,Stop China’s Stealth Invasion,ORG
+stop trolling disney-fox merger,1,1,Stop Trolling Disney-Fox Merger,ORG
+story get whitewashed history,1,1,Story Get Whitewashed History,PERSON
+stray bullet flies,1,1,Stray Bullet Flies,ORG
+streaker interrupts,1,1,Streaker Interrupts,ORG
+string cheese incident,1,1,String Cheese Incident,ORG
+struggle,1,1,Struggle,PERSON
+stunning new love interest on 'the affair' the showtime,1,1,Stunning New Love Interest On 'The Affair' The Showtime,ORG
+subscribe toni braxton,1,1,Subscribe Toni Braxton,PERSON
+subscription services,1,1,Subscription Services,ORG
+suggests he,1,1,Suggests He,PERSON
+suki waterhouse & kelly rowland,1,1,Suki Waterhouse & Kelly Rowland,ORG
+suman prasad,1,1,Suman Prasad,ORG
+summerdocs finale in ethel,1,1,Summerdocs Finale In Ethel,ORG
+summly apps serve,1,1,Summly Apps Serve,PERSON
+sun may lower blood pressure,1,1,Sun May Lower Blood Pressure,ORG
+sundance,1,1,Sundance,ORG
+super cheap kindle fire tablet,1,1,Super Cheap Kindle Fire Tablet,ORG
+super pac spending surges ahead of 2018,1,1,Super PAC Spending Surges Ahead Of 2018,ORG
+super runner semenya faces new testosterone limits in sports gender battle officials,1,1,Super Runner Semenya Faces New Testosterone Limits In Sports Gender Battle Officials,ORG
+superhero,1,1,Superhero,ORG
+supreme court puts states,1,1,Supreme Court Puts States,ORG
+supreme court seems skeptical samsung,1,1,Supreme Court Seems Skeptical Samsung,ORG
+susan baker's,1,1,Susan Baker's,PERSON
+suspends,1,1,Suspends,PERSON
+suspension u.s. district,1,1,Suspension U.S. District,ORG
+suzuka crash bianchi,1,1,Suzuka Crash Bianchi,PERSON
+sva,1,1,SVA,ORG
+sweet photo,1,1,Sweet Photo,PERSON
+swiffering,1,1,Swiffering,GPE
+swingline,1,1,Swingline,ORG
+syed rizwan farook,1,1,Syed Rizwan Farook,PERSON
+talitha cumi,1,1,Talitha Cumi,PERSON
+tambor,1,1,Tambor,ORG
+tamir rice's,1,1,Tamir Rice's,PERSON
+tango foxtrot,1,1,Tango Foxtrot,PERSON
+tango foxtrot',1,1,Tango Foxtrot',PERSON
+tater tots -- eat 'em later,1,1,Tater Tots -- Eat 'Em Later,PERSON
+tattoos,1,1,Tattoos,PERSON
+tattoos mitt romney logo onto forehead,1,1,Tattoos Mitt Romney Logo Onto Forehead,PERSON
+tatum,1,1,Tatum,GPE
+taylor,1,1,Taylor,PERSON
+taylor swift's,1,1,Taylor Swift's,PERSON
+tb,1,1,TB,ORG
+tcs new york city marathon,1,1,TCS New York City Marathon,ORG
+team usa's,1,1,Team USA's,ORG
+tech scene,1,1,Tech Scene,ORG
+ted 2',1,1,Ted 2',PERSON
+ted cruz wants,1,1,Ted Cruz Wants,PERSON
+ted cruz's,1,1,Ted Cruz's,PERSON
+ted',1,1,Ted',PERSON
+teenage james corden can make,1,1,Teenage James Corden Can Make,PERSON
+teens taking steps to,1,1,Teens Taking Steps to,ORG
+teens use tech,1,1,Teens Use Tech,PERSON
+temporarily banned from uploading facebook,1,1,Temporarily Banned From Uploading Facebook,ORG
+tennessee,1,1,Tennessee,GPE
+terrence ross dunk,1,1,Terrence Ross Dunk,PERSON
+terrorism-related arrests,1,1,Terrorism-Related Arrests,ORG
+texas a&m,1,1,Texas A&M,ORG
+texas rangers',1,1,Texas Rangers',ORG
+thanks to ryan reynolds,1,1,Thanks To Ryan Reynolds,ORG
+the 'wisdom of friends' powers brand,1,1,The 'Wisdom of Friends' Powers Brand,ORG
+the 4 best credit cards,1,1,The 4 Best Credit Cards,ORG
+the 89th academy awards,1,1,the 89th Academy Awards,ORG
+the academy awards how,1,1,The Academy Awards How,ORG
+the ad industry is finally promising to make online ads less terrible,1,1,The Ad Industry Is Finally Promising To Make Online Ads Less Terrible,ORG
+the amazon drone that will deliver,1,1,The Amazon Drone That Will Deliver,ORG
+the american farm bureau federation,1,1,the American Farm Bureau Federation,ORG
+the athena film festival,1,1,the Athena Film Festival,ORG
+the basketball court to win a new car,1,1,The Basketball Court To Win A New Car,ORG
+the bernie sanders campaign,1,1,The Bernie Sanders Campaign,ORG
+the best cities for exercise,1,1,The Best Cities For Exercise,ORG
+the best exercise video games for burning calories,1,1,The Best Exercise Video Games For Burning Calories,ORG
+the best movie franchise of all time,1,1,The Best Movie Franchise Of All Time,ORG
+the better business,1,1,The Better Business,ORG
+the big bang of silicon valley,1,1,the Big Bang of Silicon Valley,ORG
+the boston celtics,1,1,the Boston Celtics,ORG
+the box office saw its worst weekend,1,1,The Box Office Saw Its Worst Weekend,ORG
+the brave new world,1,1,The Brave New World,ORG
+the british singles chart london,1,1,The British Singles Chart LONDON,ORG
+the brooklyn nets,1,1,the Brooklyn Nets,ORG
+the center for college affordability and productivity,1,1,the Center for College Affordability and Productivity,ORG
+the center for copyright information,1,1,the Center for Copyright Information,ORG
+the cfa institute's,1,1,The CFA Institute's,ORG
+the changing and terrifying nature of the new cyber-warfare,1,1,The Changing And Terrifying Nature Of The New Cyber-Warfare,ORG
+the clemson-alabama result will,1,1,The Clemson-Alabama Result Will,ORG
+the comedian has impressed him,1,1,The Comedian Has Impressed Him,ORG
+the coolest job you probably did,1,1,The Coolest Job You Probably Did,ORG
+the corporate diversity charade,1,1,The Corporate Diversity Charade,ORG
+the council of better business bureaus,1,1,the Council of Better Business Bureaus,ORG
+the crown prosecution service,1,1,The Crown Prosecution Service,ORG
+the czech republic,1,1,the Czech Republic,GPE
+the dark knight trilogy,1,1,The Dark Knight Trilogy,ORG
+the democratic party,1,1,the Democratic Party,ORG
+the democratic presidential primary farewell,1,1,The Democratic Presidential Primary Farewell,ORG
+the denver broncos,1,1,the Denver Broncos,ORG
+the department of energy,1,1,the Department of Energy,ORG
+the department of homeland security,1,1,the Department of Homeland Security,ORG
+the detroit pistons,1,1,the Detroit Pistons,ORG
+the district of columbia,1,1,the District of Columbia,GPE
+the election of a so-called moderate president of the theocratic state,1,1,The Election Of A So-Called Moderate President Of The Theocratic State,ORG
+the electoral college,1,1,The Electoral College,ORG
+the essentials of email marketing for small business email,1,1,The Essentials of Email Marketing for Small Business Email,ORG
+the european society of cardiology congress 2013,1,1,the European Society of Cardiology Congress 2013,ORG
+the european union,1,1,the European Union,ORG
+the fbi flees,1,1,The FBI Flees,ORG
+the federal reserve holds off on interest rate hike good,1,1,The Federal Reserve Holds Off On Interest Rate Hike Good,ORG
+the federal reserve's,1,1,the Federal Reserve's,ORG
+the financial times,1,1,the Financial Times,ORG
+the first person charged in,1,1,The First Person Charged In,ORG
+the first time,1,1,The First Time,ORG
+the first trailer for ',1,1,The First Trailer For ',ORG
+the food allergy fear factor children,1,1,the Food Allergy Fear Factor Children,ORG
+the food and drug administration,1,1,the Food and Drug Administration,ORG
+the forgotten front,1,1,The Forgotten Front,ORG
+the freedom foundation,1,1,The Freedom Foundation,ORG
+the french national anthem,1,1,The French National Anthem,ORG
+the future of food you,1,1,the Future of Food You,ORG
+the future of productivity: an interview,1,1,the Future of Productivity: An Interview,ORG
+the future of venture capital,1,1,The Future of Venture Capital,ORG
+the government shutdown is not shutting,1,1,The Government Shutdown Is Not Shutting,ORG
+the harmful reality of restricting drug choices,1,1,The Harmful Reality of Restricting Drug Choices,ORG
+the health benefits of having a dog once,1,1,The Health Benefits Of Having A Dog Once,ORG
+the homeland security committee,1,1,the Homeland Security Committee,ORG
+the hotel industry is fighting proposals to give housekeepers panic buttons,1,1,The Hotel Industry Is Fighting Proposals To Give Housekeepers Panic Buttons,ORG
+the house intelligence committee,1,1,the House Intelligence Committee,ORG
+the howard hughes,1,1,the Howard Hughes,ORG
+the huffington post,1,1,The Huffington Post,ORG
+the huffington post ask,1,1,The Huffington Post Ask,ORG
+the huffington post's,1,1,The Huffington Post's,ORG
+the hulk r.i.p.,1,1,The Hulk R.I.P.,ORG
+the international monetary,1,1,the International Monetary,ORG
+the international olympic committee,1,1,the International Olympic Committee,ORG
+the international telecommunication regulations,1,1,the International Telecommunication Regulations,ORG
+the internet advertising bureau,1,1,the Internet Advertising Bureau,ORG
+the islamic state,1,1,the Islamic State,ORG
+the late debbie reynolds,1,1,The Late Debbie Reynolds,ORG
+the latest outlook on alzheimer's,1,1,The Latest Outlook On Alzheimer's,ORG
+the left's approach,1,1,The Left's Approach,ORG
+the low a tampa tarpons,1,1,the Low A Tampa Tarpons,ORG
+the man you love asks you,1,1,the Man You Love Asks You,PERSON
+the merry marvel,1,1,the Merry Marvel,ORG
+the midst of uncertainty fear,1,1,the Midst of Uncertainty Fear,ORG
+the mindfulness-based stress reduction program,1,1,the Mindfulness-Based Stress Reduction Program,ORG
+the mississippi state bulldogs,1,1,the Mississippi State Bulldogs,ORG
+the muslim brotherhood,1,1,the Muslim Brotherhood,ORG
+the national air and space museum,1,1,the National Air and Space Museum,ORG
+the national archives foundation,1,1,the National Archives Foundation,ORG
+the national defense authorization act,1,1,the National Defense Authorization Act,ORG
+the national security,1,1,the National Security,ORG
+the national sleep foundation's,1,1,the National Sleep Foundation's,ORG
+the national taxpayer advocate,1,1,the National Taxpayer Advocate,ORG
+the need for believable non-white characters --,1,1,The Need For Believable Non-White Characters --,ORG
+the neurobiology of aging,1,1,the Neurobiology of Aging,ORG
+the new industrial revolution,1,1,The New Industrial Revolution,ORG
+the new york giants,1,1,the New York Giants,ORG
+the new york knicks,1,1,the New York Knicks,ORG
+the new york post,1,1,The New York Post,ORG
+the new york racing association,1,1,the New York Racing Association,ORG
+the new york times,1,1,The New York Times,ORG
+the next airline computer meltdown,1,1,The Next Airline Computer Meltdown,ORG
+the next terrorist frontiers,1,1,The Next Terrorist Frontiers,ORG
+the nfl player's association,1,1,the NFL Player's Association,ORG
+the no fun league made its dumbest celebration call,1,1,The No Fun League Made Its Dumbest Celebration Call,ORG
+the northern surveillance agency,1,1,the Northern Surveillance Agency,ORG
+the nutrition labeling and education act,1,1,the Nutrition Labeling and Education Act,ORG
+the oakland raiders,1,1,the Oakland Raiders,ORG
+the obama administration,1,1,The Obama Administration,ORG
+the ohio high school athletic association,1,1,the Ohio High School Athletic Association,ORG
+the one billionaire with the credibility to debunk trump,1,1,The One Billionaire With The Credibility To Debunk Trump,ORG
+the one directioner,1,1,The One Directioner,ORG
+the one essential phone accessory you're missing you,1,1,The One Essential Phone Accessory You're Missing You,ORG
+the one trait successful managers have in common a,1,1,The One Trait Successful Managers Have In Common A,ORG
+the outer banks,1,1,the Outer Banks,ORG
+the oval office,1,1,the Oval Office,ORG
+the people's bailout we,1,1,The People's Bailout We,ORG
+the pga tour's,1,1,the PGA Tour's,ORG
+the philadelphia museum of art,1,1,the Philadelphia Museum of Art,ORG
+the politics of war,1,1,The Politics of War,ORG
+the port authority police department,1,1,the Port Authority Police Department,ORG
+the portland heroes who stood up,1,1,The Portland Heroes Who Stood Up,ORG
+the puerto rico bill time,1,1,The Puerto Rico Bill Time,ORG
+the q side entertainment,1,1,The Q Side Entertainment,ORG
+the quickest way,1,1,The Quickest Way,ORG
+the red carpet is simply adorable,1,1,The Red Carpet Is Simply Adorable,ORG
+the republican party must answer for what it did,1,1,The Republican Party Must Answer For What It Did,ORG
+the republican race to lose,1,1,the Republican Race to Lose,ORG
+the rnc oasis (,1,1,The RNC Oasis (,ORG
+the san francisco giants,1,1,the San Francisco Giants,ORG
+the search engine optimization industry,1,1,the Search Engine Optimization Industry,ORG
+the seven deadly sins of credit,1,1,The Seven Deadly Sins Of Credit,ORG
+the sleep industry: why we,1,1,The Sleep Industry: Why We,ORG
+the st. louis cardinals,1,1,The St. Louis Cardinals,ORG
+the state department's,1,1,the State Department's,ORG
+the state house,1,1,The State House,ORG
+the state of the nba,1,1,The State Of The NBA,ORG
+the supreme court,1,1,The Supreme Court,ORG
+the supreme court's,1,1,the Supreme Court's,ORG
+the sweet 16 ways to improve your finances during march madness,1,1,The Sweet 16 Ways to Improve Your Finances During March Madness,ORG
+the texas house,1,1,the Texas House,ORG
+the texas rangers,1,1,the Texas Rangers,ORG
+the three ps of running shoes,1,1,The Three Ps of Running Shoes,ORG
+the traditional presidential campaign is dead,1,1,The Traditional Presidential Campaign Is Dead,ORG
+the trailer for sofia coppola's 'the beguiled' previews a southern gothic horror,1,1,The Trailer For Sofia Coppola's 'The Beguiled' Previews A Southern Gothic Horror,ORG
+the trailer park test for personal finance,1,1,The Trailer Park Test for Personal Finance,ORG
+the trump administration,1,1,the Trump Administration,ORG
+"the truth about sleep, science and productivity",1,1,"The Truth About Sleep, Science And Productivity",ORG
+the u.s. department of health and human services,1,1,the U.S. Department of Health and Human Services,ORG
+the u.s. house of representatives,1,1,the U.S. House of Representatives,ORG
+the u.s. olympic committee,1,1,The U.S. Olympic Committee,ORG
+the u.s. postal service,1,1,the U.S. Postal Service,ORG
+the u.s. securities and exchange,1,1,the U.S. Securities and Exchange,ORG
+the u.s. senate,1,1,the U.S. Senate,ORG
+the u.s. senate’s,1,1,the U.S. Senate’s,ORG
+the u.s. supreme court,1,1,the U.S. Supreme Court,ORG
+the ultimate detroit road trip playlist spotify,1,1,The Ultimate Detroit Road Trip Playlist Spotify,ORG
+the ultimate new year's,1,1,The Ultimate New Year's,ORG
+the ultimate office,1,1,The Ultimate Office,ORG
+the united domestic workers,1,1,the United Domestic Workers,ORG
+the united states congress,1,1,The United States Congress,ORG
+the united states olympic committee,1,1,The United States Olympic Committee,GPE
+the university of california,1,1,the University of California,ORG
+the university of chester,1,1,the University of Chester,ORG
+the university of maryland medical center,1,1,The University of Maryland Medical Center,ORG
+the university of pittsburgh,1,1,the University of Pittsburgh,ORG
+the violence spills off the field,1,1,The Violence Spills Off the Field,ORG
+the warsaw ghetto,1,1,the Warsaw Ghetto,ORG
+the washington post,1,1,The Washington Post,ORG
+the ways & means,1,1,the Ways & Means,ORG
+the weekly rune: othala othala,1,1,The Weekly Rune: Othala Othala,ORG
+the weinstein company,1,1,The Weinstein Company,ORG
+the west bank,1,1,the West Bank,GPE
+the western world’s in crisis,1,1,The Western World’s In Crisis,ORG
+the white house wants to find them,1,1,The White House Wants To Find Them,ORG
+the wimbledon champions dinner,1,1,the Wimbledon Champions Dinner,ORG
+the wolf movie review of mad max: fury road,1,1,the Wolf Movie Review of Mad Max: Fury Road,ORG
+the world of 'makers' revealed,1,1,The World of 'Makers' Revealed,ORG
+the worst savings mistakes,1,1,The Worst Savings Mistakes,ORG
+their unsavory business practices youtube,1,1,Their Unsavory Business Practices YouTube,ORG
+theron,1,1,Theron,PERSON
+theron finds,1,1,Theron Finds,PERSON
+these longtime voters cancel their registrations denver's,1,1,These Longtime Voters Cancel Their Registrations Denver's,ORG
+thiel shows why tech,1,1,Thiel Shows Why Tech,PERSON
+thiel’s,1,1,Thiel’s,PERSON
+this jared kushner-backed,1,1,This Jared Kushner-Backed,PERSON
+this presidential election demands,1,1,This Presidential Election Demands,ORG
+thomas,1,1,Thomas,PERSON
+thomas gilliland,1,1,Thomas Gilliland,PERSON
+thomas sadoski,1,1,Thomas Sadoski,PERSON
+thor,1,1,Thor,PERSON
+threaten strike,1,1,Threaten Strike,PERSON
+threw down,1,1,Threw Down,PERSON
+throat cancer,1,1,Throat Cancer,PERSON
+thrones,1,1,Thrones,ORG
+thug kitchen wants you to eat your,1,1,Thug Kitchen Wants You To Eat Your,PERSON
+ticketmaster,1,1,TicketMaster,ORG
+tiffany haddish honors,1,1,Tiffany Haddish Honors,ORG
+tigers,1,1,Tigers,ORG
+tim allen's ',1,1,Tim Allen's ',PERSON
+tim beckham,1,1,Tim Beckham,PERSON
+tim cook,1,1,Tim Cook,PERSON
+tim hudson,1,1,Tim Hudson,PERSON
+tim lincecum,1,1,Tim Lincecum,PERSON
+tim mcgraw,1,1,Tim McGraw,PERSON
+tim moynihan,1,1,Tim Moynihan,PERSON
+time,1,1,Time,ORG
+time warner cable,1,1,Time Warner Cable,ORG
+time warner cable's,1,1,Time Warner Cable's,ORG
+timothy bradley,1,1,Timothy Bradley,PERSON
+tina fey,1,1,Tina Fey,PERSON
+tina fey tells,1,1,Tina Fey Tells,PERSON
+tips for expressing your authentic self,1,1,Tips For Expressing Your Authentic Self,ORG
+tips to reduce your cancer risk,1,1,Tips To Reduce Your Cancer Risk,PERSON
+tisp,1,1,TiSP,ORG
+to sam querrey,1,1,To Sam Querrey,PERSON
+toilet,1,1,Toilet,ORG
+toluca lake,1,1,Toluca Lake,GPE
+tom bergeron,1,1,Tom Bergeron,PERSON
+tom brady beats,1,1,Tom Brady Beats,PERSON
+tom hanks,1,1,Tom Hanks,PERSON
+tom hanks offers suggestion,1,1,Tom Hanks Offers Suggestion,PERSON
+tom petty,1,1,Tom Petty,PERSON
+tom petty dead,1,1,Tom Petty Dead,PERSON
+tom selleck,1,1,Tom Selleck,PERSON
+toni braxton's,1,1,Toni Braxton's,PERSON
+tony hawk,1,1,Tony Hawk,PERSON
+top court rejects trump campaign's,1,1,Top Court Rejects Trump Campaign's,ORG
+top white house,1,1,Top White House,PERSON
+touchdown,1,1,Touchdown,GPE
+touchdown celebration is still too sexy for the nfl,1,1,Touchdown Celebration Is Still Too Sexy For The NFL,ORG
+tracy letts,1,1,Tracy Letts,PERSON
+"traffic to wikipedia terrorism entries plunged after snowden revelations, study finds",1,1,"Traffic To Wikipedia Terrorism Entries Plunged After Snowden Revelations, Study Finds",ORG
+trainer bob baffert’s,1,1,Trainer Bob Baffert’s,PERSON
+trans-america,1,1,Trans-America,ORG
+transgender harrison browne,1,1,Transgender Harrison Browne,PERSON
+travel channel's,1,1,Travel Channel's,ORG
+travis barker make their,1,1,Travis Barker Make Their,PERSON
+travis kalanick,1,1,Travis Kalanick,PERSON
+tray walker,1,1,Tray Walker,PERSON
+trolls donald,1,1,Trolls Donald,PERSON
+trophy winner,1,1,Trophy Winner,PERSON
+trump administration,1,1,Trump Administration,ORG
+trump awkwardly assumes steelworker’s,1,1,Trump Awkwardly Assumes Steelworker’s,ORG
+trump campaign paid lawyer,1,1,Trump Campaign Paid Lawyer,ORG
+trump charges his campaign top dollar,1,1,Trump Charges His Campaign Top Dollar,ORG
+trump chases,1,1,Trump Chases,PERSON
+trump clings to unproven,1,1,Trump Clings To Unproven,PERSON
+trump doj’s secret data,1,1,Trump DOJ’s Secret Data,PERSON
+trump during the campaign,1,1,Trump During The Campaign,ORG
+trump filter' erases the donald from your chrome browser make,1,1,Trump Filter' Erases The Donald From Your Chrome Browser Make,ORG
+trump hosts women who accused,1,1,Trump Hosts Women Who Accused,ORG
+trump invites philippines',1,1,Trump Invites Philippines',ORG
+trump officials tried,1,1,Trump Officials Tried,ORG
+trump pays penalty for ethically questionable political donation,1,1,Trump Pays Penalty For Ethically Questionable Political Donation,ORG
+trump picks trading firm founder,1,1,Trump Picks Trading Firm Founder,ORG
+trump policies,1,1,Trump Policies,PERSON
+trump promotes ',1,1,Trump Promotes ',PERSON
+trump repeats huge lie,1,1,Trump Repeats Huge Lie,ORG
+trump robert unanue,1,1,Trump Robert Unanue,PERSON
+trump signed order,1,1,Trump Signed Order,PERSON
+trump signs executive,1,1,Trump Signs Executive,ORG
+trump speak out,1,1,Trump Speak Out,PERSON
+trump taps cnbc commentator,1,1,Trump Taps CNBC Commentator,ORG
+trump threatens shutdown,1,1,Trump Threatens Shutdown,ORG
+trump trump,1,1,Trump Trump,PERSON
+trump urges west virginia voters not to back don blankenship,1,1,Trump Urges West Virginia Voters Not To Back Don Blankenship,PERSON
+trump voters have turned,1,1,Trump Voters Have Turned,ORG
+trump white house,1,1,Trump White House,PERSON
+trump wishes everyone a 'happy',1,1,Trump Wishes Everyone A 'Happy',PERSON
+trump's,1,1,Trump's,ORG
+trump's travel ban,1,1,Trump's Travel Ban,ORG
+trump-supporting,1,1,Trump-Supporting,ORG
+trump-world turns,1,1,Trump-World Turns,ORG
+trump’s physical,1,1,Trump’s Physical,ORG
+trump’s tax giveaway to wall street is shameful under,1,1,Trump’s Tax Giveaway To Wall Street Is Shameful Under,ORG
+tumblr,1,1,Tumblr,ORG
+tweets photos,1,1,Tweets Photos,PERSON
+twins,1,1,Twins,ORG
+twitter 'verifies',1,1,Twitter 'Verifies',ORG
+twitter account,1,1,Twitter Account,PERSON
+twitter apple,1,1,Twitter Apple,PERSON
+twitter bars intelligence agencies from using analytics service social,1,1,Twitter Bars Intelligence Agencies From Using Analytics Service Social,ORG
+twitter explodes with calls,1,1,Twitter Explodes With Calls,PERSON
+twitter history twitter,1,1,Twitter History Twitter,PERSON
+twitter inc.,1,1,Twitter Inc.,ORG
+twitter is losing customers and its stock is plummeting bad,1,1,Twitter Is Losing Customers And Its Stock Is Plummeting Bad,ORG
+twitter plans,1,1,Twitter Plans,PERSON
+twitter to save a,1,1,Twitter To Save A,PERSON
+twitter trolls ',1,1,Twitter Trolls ',PERSON
+twitter's,1,1,Twitter's,ORG
+twitter's latest experiment is going to confuse a lot of people are,1,1,Twitter's Latest Experiment Is Going To Confuse A Lot Of People Are,ORG
+tyler clementi's,1,1,Tyler Clementi's,PERSON
+tyler gebhard's,1,1,Tyler Gebhard's,PERSON
+u.k. visit,1,1,U.K. Visit,ORG
+u.n.,1,1,U.N.,ORG
+u.s,1,1,U.S,GPE
+u.s. army,1,1,U.S. Army,ORG
+u.s. bank,1,1,U.S. Bank,ORG
+u.s. cycling's,1,1,U.S. Cycling's,ORG
+u.s. goalkeeper hope solo is,1,1,U.S. Goalkeeper Hope Solo Is,ORG
+u.s. men's olympic hockey team ends olympic run with loss,1,1,U.S. Men's Olympic Hockey Team Ends Olympic Run With Loss,ORG
+u.s. news,1,1,U.S. News,ORG
+u.s. police chiefs call for background checks for all gun purchases,1,1,U.S. Police Chiefs Call For Background Checks For All Gun Purchases,ORG
+u.s. secret service,1,1,U.S. Secret Service,ORG
+u.s. women's hockey players reach,1,1,U.S. Women's Hockey Players Reach,ORG
+u.s.a.,1,1,U.S.A.,GPE
+u.s.a. women's,1,1,U.S.A. Women's,ORG
+uber,1,1,Uber,ORG
+uc berkeley alerts,1,1,UC Berkeley Alerts,ORG
+ukraine,1,1,Ukraine,GPE
+unc post-secondary,1,1,UNC Post-secondary,ORG
+uncle sam,1,1,Uncle Sam,PERSON
+undertaking 'ballot security' measures getting,1,1,Undertaking 'Ballot Security' Measures Getting,ORG
+underwood,1,1,Underwood,PERSON
+united nations,1,1,United Nations,ORG
+united states,1,1,United States,GPE
+university of cambridge,1,1,University of Cambridge,ORG
+university of louisville,1,1,University of Louisville,ORG
+unpredictable world several,1,1,Unpredictable World Several,ORG
+up,1,1,UP,ORG
+ups,1,1,UPS,ORG
+ups ruined bridesmaid's,1,1,UPS Ruined Bridesmaid's,PERSON
+urge obama to slap stricter safety rules,1,1,Urge Obama To Slap Stricter Safety Rules,PERSON
+us bank,1,1,US Bank,ORG
+us staying,1,1,Us Staying,ORG
+usa,1,1,USA,GPE
+usa taekwondo coach,1,1,USA Taekwondo Coach,ORG
+usc,1,1,USC,ORG
+usda,1,1,USDA,ORG
+utah,1,1,Utah,GPE
+utah jazz,1,1,Utah Jazz,ORG
+vaccine shipments,1,1,Vaccine Shipments,PERSON
+valentine,1,1,Valentine,PERSON
+values surrounding health and nutrition,1,1,Values Surrounding Health And Nutrition,ORG
+valyrian,1,1,Valyrian,ORG
+vanity fair,1,1,Vanity Fair,ORG
+vaselines,1,1,Vaselines,ORG
+venezuela,1,1,Venezuela,GPE
+venturebeat,1,1,VentureBeat,ORG
+venus williams ',1,1,Venus Williams ',PERSON
+verdict in wireless patent suit based,1,1,Verdict In Wireless Patent Suit Based,ORG
+verify personal finance advice,1,1,Verify Personal Finance Advice,ORG
+vermont,1,1,Vermont,GPE
+vernon davis rules,1,1,Vernon Davis Rules,PERSON
+vero,1,1,Vero,PERSON
+vertu,1,1,Vertu,GPE
+vibes abound,1,1,Vibes Abound,PERSON
+victor cruz,1,1,Victor Cruz,PERSON
+victoria phipps,1,1,Victoria Phipps,PERSON
+video-playing glasses ease anxiety during biopsies,1,1,Video-Playing Glasses Ease Anxiety During Biopsies,ORG
+viewer,1,1,Viewer,ORG
+vikings,1,1,Vikings,ORG
+vikings live,1,1,Vikings LIVE,PERSON
+vince carter,1,1,Vince Carter,PERSON
+vincent viola,1,1,Vincent Viola,PERSON
+vincent zhou,1,1,Vincent Zhou,PERSON
+vine,1,1,Vine,PERSON
+virginia,1,1,Virginia,GPE
+vision for the future might demolish business,1,1,Vision For The Future Might Demolish Business,ORG
+vma,1,1,VMA,ORG
+volkswagen,1,1,Volkswagen,ORG
+vote,1,1,VOTE,ORG
+votes to block u.s. participation in saudi war,1,1,Votes To Block U.S. Participation In Saudi War,ORG
+vows to hire,1,1,Vows To Hire,PERSON
+vulvar pain and painful sex,1,1,Vulvar Pain and Painful Sex,ORG
+walter white's,1,1,Walter White's,PERSON
+wardrobe malfunction exposes singer's derriere,1,1,Wardrobe Malfunction Exposes Singer's Derriere,ORG
+warner,1,1,warner,ORG
+warner bros. investment,1,1,Warner Bros. Investment,ORG
+warns trump,1,1,Warns Trump,PERSON
+warren,1,1,Warren,PERSON
+warren buffett,1,1,Warren Buffett,PERSON
+washington nationals,1,1,Washington Nationals,ORG
+waterloo,1,1,Waterloo,GPE
+wavii,1,1,Wavii,ORG
+ways to eat clean,1,1,Ways to Eat Clean,ORG
+ways to prevent relapse,1,1,Ways to Prevent Relapse,ORG
+waze,1,1,Waze,ORG
+wcg management,1,1,WCG Management,ORG
+webster bank charges elderly woman,1,1,Webster Bank Charges Elderly Woman,ORG
+week of chaos met with talk of his removal “discussion of,1,1,Week Of Chaos Met With Talk Of His Removal “Discussion of,ORG
+weekly meditations,1,1,Weekly Meditations,ORG
+weekly standard,1,1,Weekly Standard,ORG
+weight loss following 'man v. food',1,1,Weight Loss Following 'Man V. Food',ORG
+weiner,1,1,Weiner,PERSON
+weinstein,1,1,Weinstein,PERSON
+weiss,1,1,Weiss,ORG
+west covina,1,1,West Covina,GPE
+west virginia,1,1,West Virginia,GPE
+wham,1,1,Wham,ORG
+wheelchair wisdom,1,1,Wheelchair Wisdom,PERSON
+white house launches money as you grow now,1,1,White House Launches Money as You Grow Now,ORG
+white sox,1,1,White Sox,ORG
+whitey bulger,1,1,Whitey Bulger,PERSON
+who,1,1,WHO,ORG
+wickr,1,1,Wickr,PERSON
+wikipedia,1,1,Wikipedia,ORG
+wildcats,1,1,Wildcats,ORG
+will melt,1,1,Will Melt,PERSON
+will shut down,1,1,Will Shut Down,PERSON
+will smith,1,1,Will Smith,PERSON
+will windows 8 fly,1,1,Will Windows 8 Fly,PERSON
+willebrand disease & platelet,1,1,Willebrand Disease & Platelet,ORG
+william barr,1,1,William Barr,PERSON
+william gay,1,1,William Gay,PERSON
+william h. macy,1,1,William H. Macy,PERSON
+william j. broad's,1,1,WIlliam J. Broad's,PERSON
+william strampel,1,1,William Strampel,PERSON
+willie cauley-stein,1,1,Willie Cauley-Stein,PERSON
+willow tufano,1,1,Willow Tufano,PERSON
+winona ryder's,1,1,Winona Ryder's,ORG
+wired,1,1,Wired,ORG
+wnba,1,1,WNBA,ORG
+wolf,1,1,wolf,PERSON
+wolff olins,1,1,Wolff Olins,ORG
+woman's day,1,1,Woman's Day,ORG
+workplace,1,1,Workplace,ORG
+world,1,1,World,ORG
+worry donald trump,1,1,Worry Donald Trump,PERSON
+worst nba slam,1,1,Worst NBA Slam,ORG
+wrangler silent armor,1,1,Wrangler Silent Armor,PERSON
+wrong cruz,1,1,Wrong Cruz,PERSON
+yahoo hack hit,1,1,Yahoo Hack Hit,PERSON
+yahoo's bad week ends with an apology,1,1,Yahoo's Bad Week Ends With An Apology,ORG
+yale heart study asks ',1,1,Yale Heart Study Asks ',ORG
+yale university,1,1,Yale University,ORG
+yankees,1,1,Yankees,ORG
+yankovic,1,1,Yankovic,PERSON
+yeeeaaah,1,1,Yeeeaaah,PERSON
+yelena vorobyov,1,1,Yelena Vorobyov,PERSON
+yelena vorobyov talks,1,1,Yelena Vorobyov Talks,PERSON
+yemen,1,1,Yemen,GPE
+ylonda caviness,1,1,Ylonda Caviness,PERSON
+yoda,1,1,Yoda,PERSON
+younow,1,1,YouNow,ORG
+youtube networks,1,1,YouTube Networks,PERSON
+youtube quietly escalates,1,1,YouTube Quietly Escalates,PERSON
+youtube urged,1,1,YouTube Urged,PERSON
+yuval steinitz,1,1,Yuval Steinitz,PERSON
+ziggy marley,1,1,Ziggy Marley,PERSON
+zombie funds receiving a 'close look',1,1,Zombie Funds Receiving A 'Close Look',PERSON
+zuckerberg,1,1,Zuckerberg,PERSON
+‎prison,1,1,‎prison,GPE
+’s,1,1,’s,GPE
