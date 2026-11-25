@@ -1,0 +1,118 @@
+entity_key,Articles,Categories,Display_Name,Observed_Labels
+u.s.,47,6,U.S.,GPE
+donald trump,26,6,Donald Trump,PERSON
+america,18,5,America,GPE
+trump,34,4,Trump,"ORG, PERSON"
+hillary clinton,15,4,Hillary Clinton,PERSON
+donald trump's,11,4,Donald Trump's,PERSON
+san francisco,9,4,San Francisco,GPE
+russia,8,4,Russia,GPE
+reuters,6,4,Reuters,ORG
+the united states,6,4,the United States,GPE
+germany,4,4,Germany,GPE
+will be,4,4,Will Be,PERSON
+google,13,3,Google,ORG
+twitter,11,3,Twitter,PERSON
+congress,8,3,Congress,ORG
+new york,7,3,New York,GPE
+washington,7,3,Washington,GPE
+california,6,3,California,GPE
+florida,6,3,Florida,GPE
+nra,6,3,NRA,GPE
+barack obama,5,3,Barack Obama,PERSON
+hollywood,5,3,Hollywood,GPE
+los angeles,4,3,Los Angeles,GPE
+wisconsin,4,3,Wisconsin,GPE
+new york city,3,3,New York City,GPE
+north carolina,3,3,North Carolina,GPE
+paris,3,3,Paris,GPE
+the new england patriots,3,3,the New England Patriots,ORG
+gop,21,2,GOP,ORG
+apple,19,2,Apple,ORG
+fbi,13,2,FBI,ORG
+nba,13,2,NBA,ORG
+obama,12,2,Obama,"GPE, PERSON"
+clinton,10,2,Clinton,PERSON
+amazon,8,2,Amazon,ORG
+instagram,6,2,Instagram,ORG
+netflix,6,2,Netflix,"GPE, ORG"
+supreme court,6,2,Supreme Court,ORG
+cleveland,5,2,Cleveland,GPE
+hbo,5,2,HBO,ORG
+ap,4,2,AP,ORG
+chicago,4,2,Chicago,GPE
+denver,4,2,Denver,GPE
+irs,4,2,IRS,ORG
+isis,4,2,ISIS,ORG
+joe biden,4,2,Joe Biden,PERSON
+miley cyrus,4,2,Miley Cyrus,PERSON
+senate,4,2,Senate,ORG
+snl,4,2,SNL,ORG
+youtube,4,2,YouTube,ORG
+alabama,3,2,Alabama,GPE
+arizona,3,2,Arizona,GPE
+covid-19,3,2,COVID-19,ORG
+dallas,3,2,Dallas,GPE
+kelly,3,2,Kelly,PERSON
+london,3,2,London,GPE
+marissa mayer,3,2,Marissa Mayer,PERSON
+mexico,3,2,Mexico,GPE
+michigan,3,2,Michigan,GPE
+mike pence,3,2,Mike Pence,PERSON
+nevada,3,2,Nevada,GPE
+north korea,3,2,North Korea,GPE
+oregon,3,2,Oregon,GPE
+peyton manning,3,2,Peyton Manning,PERSON
+texas,3,2,Texas,GPE
+tom brady,3,2,Tom Brady,PERSON
+yahoo,3,2,Yahoo,"ORG, PERSON"
+abc,2,2,ABC,ORG
+atm,2,2,ATM,ORG
+banner,2,2,Banner,PERSON
+brady,2,2,Brady,PERSON
+calif.,2,2,Calif.,GPE
+canada,2,2,Canada,GPE
+colorado,2,2,Colorado,GPE
+dead,2,2,Dead,PERSON
+eugene,2,2,Eugene,"GPE, PERSON"
+fed,2,2,Fed,ORG
+fossil fuels,2,2,Fossil Fuels,PERSON
+fox,2,2,FOX,ORG
+france,2,2,France,GPE
+ftc,2,2,FTC,ORG
+hanukkah,2,2,Hanukkah,"ORG, PERSON"
+houston,2,2,Houston,GPE
+james corden,2,2,James Corden,PERSON
+jerry seinfeld,2,2,Jerry Seinfeld,PERSON
+johnson,2,2,Johnson,PERSON
+kentucky,2,2,Kentucky,GPE
+lebanon,2,2,Lebanon,GPE
+lincoln,2,2,Lincoln,ORG
+louisiana,2,2,Louisiana,GPE
+maine,2,2,Maine,GPE
+mark zuckerberg's,2,2,Mark Zuckerberg's,PERSON
+matt lauer,2,2,Matt Lauer,PERSON
+media,2,2,Media,ORG
+medicare,2,2,Medicare,ORG
+mitt romney,2,2,Mitt Romney,PERSON
+nbc,2,2,NBC,ORG
+new york times,2,2,New York Times,ORG
+philadelphia,2,2,Philadelphia,GPE
+runner,2,2,Runner,"ORG, PERSON"
+ryan lochte,2,2,Ryan Lochte,PERSON
+sanders,2,2,Sanders,PERSON
+seattle,2,2,Seattle,GPE
+sheldon adelson,2,2,Sheldon Adelson,PERSON
+spotify,2,2,Spotify,GPE
+st. patrick's,2,2,St. Patrick's,GPE
+tech,2,2,Tech,ORG
+ted,2,2,TED,PERSON
+the detroit tigers,2,2,the Detroit Tigers,ORG
+tim,2,2,Tim,PERSON
+tom,2,2,Tom,PERSON
+toronto,2,2,Toronto,GPE
+turkey,2,2,Turkey,GPE
+un,2,2,UN,ORG
+us,2,2,US,GPE
+vegas,2,2,Vegas,"GPE, PERSON"
+walmart,2,2,Walmart,ORG

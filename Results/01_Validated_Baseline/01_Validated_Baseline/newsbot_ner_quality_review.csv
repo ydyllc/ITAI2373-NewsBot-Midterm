@@ -1,0 +1,67 @@
+article_id,category,text,label
+4,Entertainment,Behold Rose Leslie's,PERSON
+4,Entertainment,Valyrian,ORG
+5,Sports,Trump's Travel Ban,ORG
+5,Sports,The 2026,EVENT
+5,Sports,World Cup Teams,EVENT
+34,Entertainment,Trump,ORG
+81,Politics,Donald Trump,PERSON
+118,Entertainment,Donald Trump,PERSON
+155,Politics,Trump,PERSON
+268,Politics,Trump,ORG
+268,Politics,Trump,PERSON
+325,Entertainment,Trump,PERSON
+350,Entertainment,Donald Trump,PERSON
+351,Politics,Donald Trump,PERSON
+370,Politics,Trump,ORG
+418,Politics,Donald Trump,PERSON
+422,Politics,Donald Trump,PERSON
+426,Technology,Donald Trump,PERSON
+451,Politics,Trump,PERSON
+522,Finance,Donald Trump,PERSON
+541,Politics,Donald Trump,PERSON
+635,Politics,Donald Trump,PERSON
+642,Politics,Donald Trump,PERSON
+661,Politics,Trump,ORG
+673,Entertainment,Trump,ORG
+714,Politics,Donald Trump,PERSON
+721,Politics,Trump,PERSON
+738,Sports,Trump,ORG
+745,Politics,Trump,PERSON
+779,Politics,Trump,ORG
+800,Finance,Trump,ORG
+829,Politics,Trump,ORG
+847,Politics,Trump,PERSON
+859,Politics,Donald Trump,PERSON
+866,Politics,Trump,PERSON
+908,Politics,Trump,PERSON
+935,Politics,Trump,ORG
+954,Politics,Donald Trump,PERSON
+961,Politics,Donald Trump,PERSON
+982,Politics,Trump,ORG
+1023,Politics,Trump,ORG
+1118,Politics,Trump,ORG
+1132,Politics,Donald Trump,PERSON
+1139,Politics,Trump,PERSON
+1204,Politics,Trump,PERSON
+1267,Politics,Trump,PERSON
+1286,Politics,Donald Trump,PERSON
+1314,Finance,Trump,ORG
+1374,Politics,Trump,ORG
+1433,Sports,Donald Trump,PERSON
+1459,Entertainment,Trump,ORG
+1492,Wellness,Donald Trump,PERSON
+1510,Politics,Donald Trump,PERSON
+1514,Politics,Donald Trump,PERSON
+1531,Politics,Trump,ORG
+1541,Entertainment,Trump,PERSON
+1604,Politics,Donald Trump,PERSON
+1604,Politics,Trump,ORG
+1611,Politics,Donald Trump,PERSON
+1655,Politics,Trump,PERSON
+1655,Politics,Donald Trump,PERSON
+1710,Politics,Trump,PERSON
+1714,Politics,Donald Trump,PERSON
+1848,Politics,Trump,ORG
+1981,Politics,Trump,ORG
+1998,Entertainment,Donald Trump,PERSON

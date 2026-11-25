@@ -1,0 +1,43 @@
+Entity A,Entity B,Shared Articles
+Apple,FBI,5
+Colin Kaepernick,San Francisco,3
+FBI,Trump,3
+Clinton,Hillary Clinton,3
+Reuters,U.S.,2
+Trump,U.S.,2
+New York,Reuters,2
+GOP,U.S.,2
+Obama,U.S.,2
+Hillary Clinton,NRA,2
+Donald Trump's,GOP,2
+Donald Trump,Trump,2
+FBI,Supreme Court,1
+Supreme Court,U.S.,1
+New York,U.S.,1
+Supreme Court,Washington,1
+Donald Trump,GOP,1
+Hillary Clinton,Trump,1
+Donald Trump,Obama,1
+Russia,Trump,1
+Colin Kaepernick,NFL,1
+Donald Trump's,Trump,1
+Florida,Trump,1
+Apple,U.S.,1
+America,Trump,1
+Donald Trump,Hillary Clinton,1
+America,Obama,1
+Clinton,Donald Trump's,1
+Donald Trump's,Hillary Clinton,1
+Congress,GOP,1
+GOP,Trump,1
+Hillary Clinton,Obama,1
+Amazon,Apple,1
+Amazon,NRA,1
+Apple,NRA,1
+Netflix,Twitter,1
+Clinton,Trump,1
+Clinton,Donald Trump,1
+Apple,Google,1
+FBI,Google,1
+FBI,Twitter,1
+Apple,Twitter,1
